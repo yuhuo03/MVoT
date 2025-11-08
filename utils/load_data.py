@@ -30,9 +30,22 @@ def load_data(dataset, data_dir):
         )
         print(f"FrozenLake: {len(data['train'])}")
         data_list.append(data)
+    if 'v3d_cot' in dataset or 'v3dcot' in dataset:
+        data = load_dataset(
+            "utils/processed_data_wrapper/v3d_cot.py", 
+            tasks=['3d_assembly'], 
+            modes=['single_step_visualization'], 
+            data_dir=data_dir,
+            trust_remote_code=True
+        )
+        print(f"V3D-CoT: {len(data['train'])}")
+        data_list.append(data)
 
+    if len(data_list) == 0:
+        raise ValueError(f"No valid dataset found. Available options: interleaved_maze, frozenlake, v3d_cot")
+    
     concatenate_data = dict()
-    for k in data.keys():
+    for k in data_list[0].keys():
         if k in ['train']:
             concatenate_data[k] = concatenate_datasets([i[k] for i in data_list])
         else:
