@@ -1,0 +1,170 @@
+{
+  "step": 33,
+  "parts": [
+    {
+      "id": 105,
+      "name": "back_soft_surface",
+      "text": "Back Soft Surface"
+    },
+    {
+      "id": 99,
+      "name": "armrest_soft_surface",
+      "text": "Armrest Soft Surface"
+    },
+    {
+      "id": 100,
+      "name": "arm_vertical_bar",
+      "text": "Arm Vertical Bar"
+    },
+    {
+      "id": 101,
+      "name": "arm_horizontal_bar",
+      "text": "Arm Horizontal Bar"
+    },
+    {
+      "id": 103,
+      "name": "other_leaf",
+      "text": "other_leaf"
+    },
+    {
+      "id": 94,
+      "name": "armrest_soft_surface",
+      "text": "Armrest Soft Surface"
+    },
+    {
+      "id": 95,
+      "name": "arm_vertical_bar",
+      "text": "Arm Vertical Bar"
+    },
+    {
+      "id": 96,
+      "name": "arm_horizontal_bar",
+      "text": "Arm Horizontal Bar"
+    },
+    {
+      "id": 98,
+      "name": "other_leaf",
+      "text": "other_leaf"
+    },
+    {
+      "id": 93,
+      "name": "seat_soft_surface",
+      "text": "Seat Soft Surface"
+    },
+    {
+      "id": 92,
+      "name": "seat_support",
+      "text": "Seat Support"
+    },
+    {
+      "id": 61,
+      "name": "central_support",
+      "text": "Central Support"
+    },
+    {
+      "id": 62,
+      "name": "central_support",
+      "text": "Central Support"
+    },
+    {
+      "id": 63,
+      "name": "central_support",
+      "text": "Central Support"
+    },
+    {
+      "id": 66,
+      "name": "leg",
+      "text": "Leg"
+    },
+    {
+      "id": 67,
+      "name": "leg",
+      "text": "Leg"
+    },
+    {
+      "id": 68,
+      "name": "leg",
+      "text": "Leg"
+    },
+    {
+      "id": 69,
+      "name": "leg",
+      "text": "Leg"
+    },
+    {
+      "id": 70,
+      "name": "leg",
+      "text": "Leg"
+    },
+    {
+      "id": 88,
+      "name": "caster_stem",
+      "text": "Caster Stem"
+    },
+    {
+      "id": 89,
+      "name": "wheel",
+      "text": "Wheel"
+    },
+    {
+      "id": 90,
+      "name": "wheel",
+      "text": "Wheel"
+    },
+    {
+      "id": 85,
+      "name": "caster_stem",
+      "text": "Caster Stem"
+    },
+    {
+      "id": 86,
+      "name": "wheel",
+      "text": "Wheel"
+    },
+    {
+      "id": 87,
+      "name": "wheel",
+      "text": "Wheel"
+    },
+    {
+      "id": 82,
+      "name": "caster_stem",
+      "text": "Caster Stem"
+    },
+    {
+      "id": 83,
+      "name": "wheel",
+      "text": "Wheel"
+    },
+    {
+      "id": 84,
+      "name": "wheel",
+      "text": "Wheel"
+    },
+    {
+      "id": 79,
+      "name": "caster_stem",
+      "text": "Caster Stem"
+    },
+    {
+      "id": 80,
+      "name": "wheel",
+      "text": "Wheel"
+    },
+    {
+      "id": 81,
+      "name": "wheel",
+      "text": "Wheel"
+    },
+    {
+      "id": 76,
+      "name": "caster_stem",
+      "text": "Caster Stem"
+    },
+    {
+      "id": 77,
+      "name": "wheel",
+      "text": "Wheel"
+    }
+  ]
+}

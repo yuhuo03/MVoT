@@ -1,0 +1,15 @@
+{
+  "step": 2,
+  "parts": [
+    {
+      "id": 21,
+      "name": "back_surface_vertical_bar",
+      "text": "Back Surface Vertical Bar"
+    },
+    {
+      "id": 22,
+      "name": "back_surface_vertical_bar",
+      "text": "Back Surface Vertical Bar"
+    }
+  ]
+}

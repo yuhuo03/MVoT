@@ -1,0 +1,15 @@
+{
+  "step": 2,
+  "parts": [
+    {
+      "id": 16,
+      "name": "back_soft_surface",
+      "text": "Back Soft Surface"
+    },
+    {
+      "id": 14,
+      "name": "arm_sofa_style",
+      "text": "Sofa-style Arm"
+    }
+  ]
+}

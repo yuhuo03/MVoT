@@ -1,0 +1,74 @@
+{
+  "model_id": "449",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, create the blade, which serves as the primary cutting edge of the knife, giving it its essential functionality. This blade will be positioned extending outward from the handle area, forming the focal point of the knife and determining its overall shape and design.",
+      "parts": [
+        {
+          "id": 6,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 6,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the guard just below the blade to provide a critical safety feature, preventing the user's hand from slipping onto the sharp edge during use. This component also reinforces the structural integrity of the knife by firmly anchoring the blade and establishing a secure connection between the blade and the handle.",
+      "parts": [
+        {
+          "id": 6,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 4,
+          "name": "guard",
+          "text": "Guard"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 4,
+          "name": "guard",
+          "text": "Guard"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Finally, add the handle to the bottom of the guard, ensuring a secure grip for the user while providing balance to the overall structure of the knife. The handle connects seamlessly with the guard, allowing for comfortable maneuverability and effective control, completing the knife's functional design.",
+      "parts": [
+        {
+          "id": 6,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 4,
+          "name": "guard",
+          "text": "Guard"
+        },
+        {
+          "id": 5,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 5,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "step": 3,
+  "parts": [
+    {
+      "id": 10,
+      "name": "switch",
+      "text": "Switch"
+    },
+    {
+      "id": 11,
+      "name": "switch",
+      "text": "Switch"
+    },
+    {
+      "id": 12,
+      "name": "hose",
+      "text": "Hose"
+    }
+  ]
+}

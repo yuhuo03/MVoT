@@ -1,0 +1,107 @@
+{
+  "model_id": "116",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, create the blade as it serves as the central and defining feature of the knife, providing the sharp edge necessary for cutting. This blade will be positioned at the forefront of the knife, establishing the primary functionality and character of the object, setting the stage for the subsequent components that will enhance its usability and aesthetics.",
+      "parts": [
+        {
+          "id": 6,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 6,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the guard just below the blade, ensuring it extends slightly outward to protect the user's hand from slipping onto the blade during use. This component not only enhances safety but also provides structural support where the blade meets the handle, creating a seamless transition between parts and reinforcing the overall integrity of the knife design.",
+      "parts": [
+        {
+          "id": 6,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 4,
+          "name": "guard",
+          "text": "Guard"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 4,
+          "name": "guard",
+          "text": "Guard"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Now, attach the handle to the lower portion of the guard, creating a comfortable grip for the user while ensuring a seamless transition from the blade through the guard to the handle. This addition is crucial as it not only enhances the usability of the object but also provides stability and balance, allowing for effective control while utilizing the blade.",
+      "parts": [
+        {
+          "id": 6,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 4,
+          "name": "guard",
+          "text": "Guard"
+        },
+        {
+          "id": 5,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 5,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Finally, add the butt at the end of the handle to provide a finished appearance and enhance the grip stability, ensuring that the user's hand remains secure during use. This component not only contributes to the overall aesthetic of the knife but also balances the weight distribution between the blade and handle, improving control and maneuverability.",
+      "parts": [
+        {
+          "id": 6,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 4,
+          "name": "guard",
+          "text": "Guard"
+        },
+        {
+          "id": 5,
+          "name": "handle",
+          "text": "Handle"
+        },
+        {
+          "id": 7,
+          "name": "butt",
+          "text": "Butt"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 7,
+          "name": "butt",
+          "text": "Butt"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,893 @@
+{
+  "model_id": "180",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, add the Arm Vertical Bar, which will serve as the primary support structure for the object, positioning it vertically at the intended side of the base. This component is crucial as it establishes the initial framework, providing stability and a reference point for the subsequent parts that will connect to it.",
+      "parts": [
+        {
+          "id": 31,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 31,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, attach the horizontal support bar to the midpoint of the Arm Vertical Bar to provide stability and reinforce the overall structure. This connection is crucial as it allows for weight distribution and enhances the rigidity of the arm assembly, ensuring that the vertical bar can effectively support any additional components added in subsequent steps.",
+      "parts": [
+        {
+          "id": 31,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 32,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 32,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, add the Arm Horizontal Bar across the two Arm Vertical Bars to create a sturdy framework that connects them and enhances the overall stability of the structure. This horizontal component not only provides additional support but also serves as a platform for future attachments, allowing for a more functional and integrated design as it forms the basis for the object’s lateral strength.",
+      "parts": [
+        {
+          "id": 31,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 32,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 39,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 39,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Now, add the Seat Soft Surface on top of the Arm Horizontal Bar, ensuring it is centered to provide a comfortable seating area. This addition is crucial as it transforms the structure from merely a frame into a functional seat, offering support and enhancing user experience while maintaining stability with the existing vertical and horizontal bars.",
+      "parts": [
+        {
+          "id": 31,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 32,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 39,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 44,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 44,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Then, add the Seat Frame Vertical Bar to the rear side of the seat, positioning it vertically to provide essential support for the overall structure. This bar will connect seamlessly with the seat soft surface and the existing arm horizontal bar, reinforcing the seating area and enhancing stability while contributing to the overall strength of the assembly.",
+      "parts": [
+        {
+          "id": 31,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 32,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 39,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 44,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 42,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 42,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        }
+      ]
+    },
+    "6": {
+      "step": 6,
+      "description": "Then, add another Seat Frame Vertical Bar parallel to the previously installed vertical bar, positioned towards the opposite side of the seat frame. This addition is crucial for enhancing the structural integrity of the seat, as it creates a stable framework that supports the soft surface while also ensuring that the overall design maintains balance and strength.",
+      "parts": [
+        {
+          "id": 31,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 32,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 39,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 44,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 42,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 43,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 43,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        }
+      ]
+    },
+    "7": {
+      "step": 7,
+      "description": "Then, add the leg to the bottom of the seat frame vertical bars to provide essential support and stability for the entire structure. This leg will not only bear the weight of the seat and any occupants but also connect securely to the existing frame, ensuring the overall integrity and balance of the object as it stands.",
+      "parts": [
+        {
+          "id": 31,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 32,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 39,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 44,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 42,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 43,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "8": {
+      "step": 8,
+      "description": "Then, add another leg parallel to the existing leg, ensuring it is positioned at the opposite side of the seat frame to provide balanced support for the structure. This addition is crucial as it enhances the stability of the object, allowing it to bear weight evenly and maintain its integrity during use.",
+      "parts": [
+        {
+          "id": 31,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 32,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 39,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 44,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 42,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 43,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "9": {
+      "step": 9,
+      "description": "Then, add another leg to the opposite side of the existing legs, ensuring it aligns parallel to the first leg for balanced support. This addition is crucial as it will provide stability and strength to the overall structure, allowing the object to bear weight evenly and ensuring it remains upright during use.",
+      "parts": [
+        {
+          "id": 31,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 32,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 39,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 44,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 42,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 43,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "10": {
+      "step": 10,
+      "description": "Then, add the fourth leg to the structure, positioning it symmetrically opposite the third leg to ensure stability and balance for the overall object. This leg will connect firmly to the seat frame, providing additional support and reinforcing the strength of the entire assembly, which is crucial for maintaining the integrity of the seating area during use.",
+      "parts": [
+        {
+          "id": 31,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 32,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 39,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 44,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 42,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 43,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "11": {
+      "step": 11,
+      "description": "Then, add the bar stretcher between the legs to enhance the overall stability and support of the structure. This component connects the legs at their lower ends, distributing weight evenly and preventing any swaying or wobbling, which is essential for ensuring the integrity of the seat frame as well as the comfort of users.",
+      "parts": [
+        {
+          "id": 31,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 32,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 39,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 44,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 42,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 43,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 11,
+          "name": "bar_stretcher",
+          "text": "Bar Stretcher"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 11,
+          "name": "bar_stretcher",
+          "text": "Bar Stretcher"
+        }
+      ]
+    },
+    "12": {
+      "step": 12,
+      "description": "Then, attach another Bar Stretcher between the legs on the opposite side of the first Bar Stretcher, reinforcing the structural integrity of the chair and providing additional stability. This connection helps distribute weight evenly across the base, ensuring that the seat frame is securely supported while also creating a cohesive design that ties the legs together.",
+      "parts": [
+        {
+          "id": 31,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 32,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 39,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 44,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 42,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 43,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 11,
+          "name": "bar_stretcher",
+          "text": "Bar Stretcher"
+        },
+        {
+          "id": 12,
+          "name": "bar_stretcher",
+          "text": "Bar Stretcher"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 12,
+          "name": "bar_stretcher",
+          "text": "Bar Stretcher"
+        }
+      ]
+    },
+    "13": {
+      "step": 13,
+      "description": "Then, add the Back Soft Surface to the rear of the seat structure, integrating it with the top edges of the Arm Vertical Bars to provide comfort and support for the user’s back. This addition enhances the overall stability of the seating arrangement while ensuring a cohesive design that promotes ergonomic use alongside the previously installed Seat Soft Surface.",
+      "parts": [
+        {
+          "id": 31,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 32,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 39,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 44,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 42,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 43,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 11,
+          "name": "bar_stretcher",
+          "text": "Bar Stretcher"
+        },
+        {
+          "id": 12,
+          "name": "bar_stretcher",
+          "text": "Bar Stretcher"
+        },
+        {
+          "id": 37,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 37,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ]
+    },
+    "14": {
+      "step": 14,
+      "description": "Then, add the second Arm Vertical Bar adjacent to the first one, ensuring it mirrors the existing bar to maintain symmetry and structural integrity. This addition is crucial as it will provide the necessary support for the arm horizontal bar, reinforcing the overall stability of the armrest area and enhancing the comfort of the seat.",
+      "parts": [
+        {
+          "id": 31,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 32,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 39,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 44,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 42,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 43,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 11,
+          "name": "bar_stretcher",
+          "text": "Bar Stretcher"
+        },
+        {
+          "id": 12,
+          "name": "bar_stretcher",
+          "text": "Bar Stretcher"
+        },
+        {
+          "id": 37,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 34,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 34,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ]
+    },
+    "15": {
+      "step": 15,
+      "description": "Then, add the final Arm Vertical Bar to the opposite side of the existing arm structure, ensuring it mirrors the previously installed bars for a balanced and symmetrical design. This addition not only strengthens the overall framework of the armrest but also enhances the visual appeal and stability of the chair, creating a cohesive look that supports the soft surfaces above.",
+      "parts": [
+        {
+          "id": 31,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 32,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 39,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 44,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 42,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 43,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 11,
+          "name": "bar_stretcher",
+          "text": "Bar Stretcher"
+        },
+        {
+          "id": 12,
+          "name": "bar_stretcher",
+          "text": "Bar Stretcher"
+        },
+        {
+          "id": 37,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 34,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 35,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 35,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ]
+    },
+    "16": {
+      "step": 16,
+      "description": "Finally, add the arm horizontal bar between the two arm vertical bars to complete the arm structure, providing additional support and stability. This connection is crucial as it reinforces the overall integrity of the arms, ensuring they can withstand the weight and stress put on them during use.",
+      "parts": [
+        {
+          "id": 31,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 32,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 39,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 44,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 42,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 43,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 11,
+          "name": "bar_stretcher",
+          "text": "Bar Stretcher"
+        },
+        {
+          "id": 12,
+          "name": "bar_stretcher",
+          "text": "Bar Stretcher"
+        },
+        {
+          "id": 37,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 34,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 35,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 38,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 38,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        }
+      ]
+    }
+  }
+}

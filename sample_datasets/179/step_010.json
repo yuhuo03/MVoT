@@ -1,0 +1,55 @@
+{
+  "step": 10,
+  "parts": [
+    {
+      "id": 105,
+      "name": "back_soft_surface",
+      "text": "Back Soft Surface"
+    },
+    {
+      "id": 99,
+      "name": "armrest_soft_surface",
+      "text": "Armrest Soft Surface"
+    },
+    {
+      "id": 100,
+      "name": "arm_vertical_bar",
+      "text": "Arm Vertical Bar"
+    },
+    {
+      "id": 101,
+      "name": "arm_horizontal_bar",
+      "text": "Arm Horizontal Bar"
+    },
+    {
+      "id": 103,
+      "name": "other_leaf",
+      "text": "other_leaf"
+    },
+    {
+      "id": 94,
+      "name": "armrest_soft_surface",
+      "text": "Armrest Soft Surface"
+    },
+    {
+      "id": 95,
+      "name": "arm_vertical_bar",
+      "text": "Arm Vertical Bar"
+    },
+    {
+      "id": 96,
+      "name": "arm_horizontal_bar",
+      "text": "Arm Horizontal Bar"
+    },
+    {
+      "id": 98,
+      "name": "other_leaf",
+      "text": "other_leaf"
+    },
+    {
+      "id": 93,
+      "name": "seat_soft_surface",
+      "text": "Seat Soft Surface"
+    }
+  ]
+}

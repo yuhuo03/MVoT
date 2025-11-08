@@ -1,0 +1,46 @@
+{
+  "model_id": "412",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, create the blade, which serves as the primary cutting component of the object and will define its overall shape and functionality. This blade will be positioned at the forefront, extending outward to facilitate its intended use, providing the necessary sharpness and precision that are crucial for effective operation.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Finally, add the handle to the bottom of the blade, ensuring it is securely fixed to provide a comfortable grip for the user. This connection is crucial as it not only balances the knife but also allows for effective control and maneuverability when cutting, completing the overall structure of the knife.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 4,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 4,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ]
+    }
+  }
+}

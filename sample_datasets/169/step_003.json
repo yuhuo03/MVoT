@@ -1,0 +1,20 @@
+{
+  "step": 3,
+  "parts": [
+    {
+      "id": 27,
+      "name": "tube",
+      "text": "Tube"
+    },
+    {
+      "id": 28,
+      "name": "head",
+      "text": "Head"
+    },
+    {
+      "id": 29,
+      "name": "mouth",
+      "text": "Mouth"
+    }
+  ]
+}

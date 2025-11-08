@@ -1,0 +1,3610 @@
+{
+  "model_id": "179",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, add the Back Soft Surface at the rear of the object to provide a comfortable and cushioned area that enhances user interaction and support. This foundational component is crucial as it establishes a base for the overall structure, ensuring a smooth transition for subsequent layers and features to be integrated later.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the Armrest Soft Surface positioned on either side of the back soft surface to enhance user comfort and support the arms while seated. This addition is crucial as it creates a cohesive seating experience, connecting the back support with the arm positions, thereby promoting better posture and relaxation.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, add the Arm Vertical Bar vertically positioned between the back soft surface and the armrest soft surface to provide essential structural support and stability to the overall frame. This connection is crucial as it reinforces the armrest while maintaining the ergonomic design, ensuring that the armrest holds its shape and function effectively under weight.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Then, add the Arm Horizontal Bar, positioning it horizontally between the two vertical arm supports to create a sturdy framework that enhances the overall stability of the armrest structure. This bar not only connects the vertical bar to the armrest soft surface, reinforcing the armrest's integrity, but also provides additional support for the user, ensuring a comfortable and secure resting place for the arms.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Then, add the other_leaf to the opposite side of the armrest soft surface, mirroring the existing armrest configuration to provide symmetry and balance to the structure. This component not only enhances the aesthetic appeal of the object but also reinforces the overall stability of the armrest area, ensuring that it can comfortably support users on both sides.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        }
+      ]
+    },
+    "6": {
+      "step": 6,
+      "description": "Then, add the Armrest Soft Surface on top of the Arm Horizontal Bar, ensuring it is securely positioned to provide a comfortable resting area for the user's arms. This addition is crucial as it not only enhances the overall comfort of the object but also reinforces the structural integrity by tying together the armrest components with the existing vertical and horizontal bars, creating a cohesive support system.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        }
+      ]
+    },
+    "7": {
+      "step": 7,
+      "description": "Then, add the second Arm Vertical Bar, positioning it parallel to the first Arm Vertical Bar to create a balanced structure for the armrest assembly. This additional vertical bar will not only enhance the overall stability of the armrest but also provide the necessary support for the armrest Soft Surface, ensuring it maintains its shape and functionality.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ]
+    },
+    "8": {
+      "step": 8,
+      "description": "Then, add the second Arm Horizontal Bar parallel to the first, connecting the two Arm Vertical Bars. This addition is crucial as it provides structural integrity to the arm section, ensuring that the armrest maintains its shape and support while enhancing the overall stability of the object.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        }
+      ]
+    },
+    "9": {
+      "step": 9,
+      "description": "Then, add the other_leaf to the opposite side of the armrest area, mirroring the existing arm components to ensure symmetry and balance in the overall structure. This addition is crucial as it not only enhances the aesthetic appeal but also provides necessary support and stability, allowing the armrest to function effectively and comfortably for users.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        }
+      ]
+    },
+    "10": {
+      "step": 10,
+      "description": "Now, add the Seat Soft Surface positioned directly above the armrests and between the vertical bars to provide a comfortable seating area for the user. This addition is crucial as it completes the seating arrangement, connecting seamlessly with the existing armrest soft surfaces and enhancing the overall ergonomics of the object.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ]
+    },
+    "11": {
+      "step": 11,
+      "description": "Then, add the Seat Support beneath the Seat Soft Surface to provide essential structural integrity and stability, ensuring that the seat can withstand weight and usage. This support connects directly to the existing Arm Vertical Bars, reinforcing the overall framework of the object while maintaining a balanced and secure seating experience.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        }
+      ]
+    },
+    "12": {
+      "step": 12,
+      "description": "Then, add the Central Support, positioning it vertically in the middle of the seat support structure to provide additional stability and strength to the overall framework. This component is crucial as it helps to evenly distribute the weight across the seat area, reinforcing the connection between the seat soft surface and the existing support elements, thereby enhancing the durability of the entire seating arrangement.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        }
+      ]
+    },
+    "13": {
+      "step": 13,
+      "description": "Then, add the central support directly beneath the seat soft surface to provide essential stability and strength to the entire structure. This connection reinforces the integrity of the seat support and ensures that the weight is distributed evenly, enhancing the overall durability of the object.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        }
+      ]
+    },
+    "14": {
+      "step": 14,
+      "description": "Then, reinforce the structure by adding another Central Support, positioned directly beneath the seat and aligned with the existing central supports, to enhance stability and weight distribution. This addition is crucial as it provides extra support for the seat, ensuring that the overall integrity of the object remains solid, especially when under load.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        }
+      ]
+    },
+    "15": {
+      "step": 15,
+      "description": "Then, add the leg to the base of the seat support, positioning it securely to provide stability and support for the entire structure. This leg is crucial as it will bear the weight of the chair, ensuring that the seat and back soft surfaces are properly elevated and balanced, creating a sturdy foundation for the object as a whole.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "16": {
+      "step": 16,
+      "description": "Then, add the second leg parallel to the first leg to provide balanced support and stability for the object, ensuring it can bear weight evenly. This leg will connect at the bottom of the seat support, reinforcing the overall structure and contributing to the ergonomic design by maintaining an appropriate height and alignment with the seat and back surfaces.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 67,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 67,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "17": {
+      "step": 17,
+      "description": "Then, add another leg on the opposite side of the previously installed leg to ensure stability and balance for the object. This new leg will provide essential support and evenly distribute weight across the structure, reinforcing the overall integrity of the seating area and complementing the existing legs that anchor the frame.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 67,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 68,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 68,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "18": {
+      "step": 18,
+      "description": "Then, add another leg to the opposing side of the structure, ensuring it mirrors the previously installed legs for balance and stability. This new leg will support the overall weight of the object and maintain its structural integrity, creating a sturdy base that connects seamlessly with the existing legs and central support components.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 67,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 68,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 69,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 69,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "19": {
+      "step": 19,
+      "description": "Then, add another leg to the opposite side of the existing legs, ensuring it mirrors the placement of the previous ones for balanced support. This additional leg is crucial for maintaining the stability of the overall structure, distributing weight evenly, and enhancing the integrity of the seating arrangement as it complements the existing legs and supports the seat and central structure.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 67,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 68,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 69,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 70,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 70,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "20": {
+      "step": 20,
+      "description": "Then, add the caster stem at the base of each leg to provide mobility and ease of movement for the object, allowing it to be easily repositioned as needed. This component connects directly to the legs, enhancing the overall functionality while maintaining stability and support for the structure above.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 67,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 68,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 69,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 70,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 88,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 88,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        }
+      ]
+    },
+    "21": {
+      "step": 21,
+      "description": "Then, attach the wheel to the bottom of the caster stem to provide mobility and ease of movement for the entire object. This addition is crucial as it allows the structure to be easily repositioned, enhancing its functionality and user convenience while maintaining stability through the support of the legs and central supports.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 67,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 68,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 69,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 70,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 88,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 89,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 89,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ]
+    },
+    "22": {
+      "step": 22,
+      "description": "Then, add the second wheel adjacent to the first wheel on the opposite side of the caster stem, ensuring that it mirrors the position and alignment of the first wheel. This symmetrical placement is crucial for providing balanced mobility and stability to the entire structure, allowing it to roll smoothly and support the weight of the object effectively.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 67,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 68,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 69,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 70,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 88,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 89,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 90,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 90,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ]
+    },
+    "23": {
+      "step": 23,
+      "description": "Then, add the second caster stem to the opposite side of the first, ensuring it is positioned symmetrically so that both caster stems provide balanced mobility for the object. This addition is crucial as it allows for smooth movement and stability, complementing the previously added wheels and enhancing the overall functionality of the structure.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 67,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 68,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 69,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 70,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 88,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 89,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 90,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 85,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 85,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        }
+      ]
+    },
+    "24": {
+      "step": 24,
+      "description": "Then, attach the second wheel to the opposite caster stem, ensuring it aligns perfectly with the first wheel for balanced mobility. This addition is crucial as it enhances the stability and maneuverability of the object, allowing it to glide smoothly across various surfaces while distributing weight evenly.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 67,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 68,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 69,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 70,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 88,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 89,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 90,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 85,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 86,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 86,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ]
+    },
+    "25": {
+      "step": 25,
+      "description": "Then, add another wheel to the opposite side of the previously installed wheels, ensuring that it aligns perfectly with the existing caster stems for balanced mobility. This addition is crucial as it enhances the overall stability and maneuverability of the object, allowing it to roll smoothly in various directions while distributing weight evenly across all wheels.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 67,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 68,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 69,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 70,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 88,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 89,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 90,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 85,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 86,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 87,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 87,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ]
+    },
+    "26": {
+      "step": 26,
+      "description": "Then, add another Caster Stem adjacent to the previously installed caster stems, ensuring it is properly aligned with the legs for optimal stability and mobility. This addition is crucial as it will support the weight of the object while providing the necessary freedom of movement, allowing the wheels to pivot smoothly for easy maneuverability.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 67,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 68,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 69,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 70,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 88,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 89,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 90,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 85,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 86,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 87,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 82,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 82,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        }
+      ]
+    },
+    "27": {
+      "step": 27,
+      "description": "Then, add another wheel to the existing caster stem, ensuring it is positioned directly opposite the previously added wheel on the same stem. This addition is crucial as it provides balance and stability to the structure, allowing for smooth mobility and support when the object is in use.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 67,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 68,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 69,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 70,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 88,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 89,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 90,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 85,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 86,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 87,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 82,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 83,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 83,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ]
+    },
+    "28": {
+      "step": 28,
+      "description": "Then, add another wheel to the existing caster stem, ensuring it is securely attached for stability and mobility. This additional wheel enhances the overall functionality of the chair by providing smoother movement and better weight distribution, complementing the previously installed wheels for a balanced and maneuverable design.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 67,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 68,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 69,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 70,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 88,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 89,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 90,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 85,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 86,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 87,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 82,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 83,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 84,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 84,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ]
+    },
+    "29": {
+      "step": 29,
+      "description": "Then, add another Caster Stem directly beneath the newly added Wheel to ensure balanced mobility and support for the overall structure. This Caster Stem connects the wheel assembly to the leg framework, facilitating smooth movement while maintaining stability, thus enhancing the functionality of the object as it allows for easy maneuverability.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 67,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 68,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 69,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 70,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 88,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 89,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 90,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 85,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 86,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 87,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 82,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 83,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 84,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 79,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 79,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        }
+      ]
+    },
+    "30": {
+      "step": 30,
+      "description": "Then, add the final wheel to the remaining caster stem, ensuring that it is positioned directly beneath the existing structure to provide stability and mobility. This addition is crucial as it completes the set of wheels, allowing for smooth movement of the object while evenly distributing weight across all casters, enhancing overall functionality and usability.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 67,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 68,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 69,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 70,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 88,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 89,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 90,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 85,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 86,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 87,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 82,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 83,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 84,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 79,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 80,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 80,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ]
+    },
+    "31": {
+      "step": 31,
+      "description": "Then, add another wheel to the existing caster stem, ensuring it is securely mounted for smooth mobility. This additional wheel not only enhances the stability and balance of the chair but also facilitates easier movement across various surfaces, complementing the previously installed wheels for a cohesive and functional base.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 67,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 68,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 69,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 70,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 88,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 89,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 90,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 85,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 86,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 87,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 82,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 83,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 84,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 79,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 80,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 81,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 81,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ]
+    },
+    "32": {
+      "step": 32,
+      "description": "Then, add another Caster Stem to the assembly, positioning it securely between two of the existing legs to enhance stability and mobility. This additional caster stem is crucial for evenly distributing weight across the base, ensuring smooth movement and support for the overall structure as it will work in conjunction with the wheels already attached.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 67,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 68,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 69,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 70,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 88,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 89,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 90,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 85,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 86,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 87,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 82,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 83,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 84,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 79,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 80,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 81,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 76,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 76,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        }
+      ]
+    },
+    "33": {
+      "step": 33,
+      "description": "Then, add another wheel to the existing caster stem to ensure that the object has balanced mobility and stability. This wheel will complement the previously added wheels, providing support and facilitating smooth movement in various directions, enhancing the overall functionality of the structure.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 67,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 68,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 69,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 70,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 88,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 89,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 90,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 85,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 86,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 87,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 82,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 83,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 84,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 79,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 80,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 81,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 76,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 77,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 77,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ]
+    },
+    "34": {
+      "step": 34,
+      "description": "Then, add the final wheel to the last caster stem, ensuring a complete and balanced set of wheels that will enable smooth mobility of the object. This addition is crucial as it finalizes the support structure for movement, allowing the entire assembly to glide effortlessly, while also maintaining stability with the previously added wheels on each leg.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 67,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 68,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 69,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 70,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 88,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 89,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 90,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 85,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 86,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 87,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 82,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 83,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 84,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 79,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 80,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 81,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 76,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 77,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 78,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 78,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ]
+    },
+    "35": {
+      "step": 35,
+      "description": "Finally, add the seat connector to securely link the seat soft surface to the seat support, ensuring stability and proper alignment. This component plays a crucial role in reinforcing the structure, allowing for a comfortable seating experience while enhancing the overall durability of the chair.",
+      "parts": [
+        {
+          "id": 105,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 99,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 100,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 101,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 103,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 94,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 95,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 96,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 98,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 93,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 92,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 61,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 62,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 63,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 66,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 67,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 68,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 69,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 70,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 88,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 89,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 90,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 85,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 86,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 87,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 82,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 83,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 84,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 79,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 80,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 81,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 76,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 77,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 78,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 65,
+          "name": "seat_connector",
+          "text": "Seat Connector"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 65,
+          "name": "seat_connector",
+          "text": "Seat Connector"
+        }
+      ]
+    }
+  }
+}

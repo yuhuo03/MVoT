@@ -1,0 +1,30 @@
+{
+  "step": 5,
+  "parts": [
+    {
+      "id": 4,
+      "name": "blade",
+      "text": "Blade"
+    },
+    {
+      "id": 5,
+      "name": "bolster",
+      "text": "Bolster"
+    },
+    {
+      "id": 6,
+      "name": "guard",
+      "text": "Guard"
+    },
+    {
+      "id": 7,
+      "name": "handle",
+      "text": "Handle"
+    },
+    {
+      "id": 9,
+      "name": "other_leaf",
+      "text": "other_leaf"
+    }
+  ]
+}

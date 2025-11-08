@@ -1,0 +1,145 @@
+{
+  "model_id": "207",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, create the blade, which will form the sharp, dominant edge of the object and serve as its primary functional component. This blade will be positioned at the front, establishing the overall silhouette and purpose of the object, allowing for efficient cutting or slicing actions once the assembly is complete.",
+      "parts": [
+        {
+          "id": 7,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 7,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the bolster at the base of the blade, ensuring it sits flush against the tang and provides a smooth transition between the blade and handle. This component is crucial as it reinforces the structural integrity of the knife, offering added strength where the blade meets the handle and enhancing the overall balance and safety during use.",
+      "parts": [
+        {
+          "id": 7,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 8,
+          "name": "bolster",
+          "text": "Bolster"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 8,
+          "name": "bolster",
+          "text": "Bolster"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, attach the guard just below the bolster to provide a protective barrier between the blade and the handle, ensuring the user's hand is safe from accidental slips during use. This connection not only enhances the knife's overall stability but also contributes to the aesthetic flow of the design, merging seamlessly with the bolster and blade above it.",
+      "parts": [
+        {
+          "id": 7,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 8,
+          "name": "bolster",
+          "text": "Bolster"
+        },
+        {
+          "id": 4,
+          "name": "guard",
+          "text": "Guard"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 4,
+          "name": "guard",
+          "text": "Guard"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Then, add the handle by positioning it securely between the bolster and the guard to provide a comfortable grip for the user. This addition is crucial as it not only allows for effective handling of the knife but also enhances the overall balance and control when cutting, ensuring that the user can operate the blade safely and efficiently.",
+      "parts": [
+        {
+          "id": 7,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 8,
+          "name": "bolster",
+          "text": "Bolster"
+        },
+        {
+          "id": 4,
+          "name": "guard",
+          "text": "Guard"
+        },
+        {
+          "id": 5,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 5,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Finally, add the butt at the end of the handle to provide a finished appearance and enhance the overall balance of the knife. This component not only completes the silhouette of the handle but also ensures a secure grip for the user, preventing slipping during use and improving control while cutting.",
+      "parts": [
+        {
+          "id": 7,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 8,
+          "name": "bolster",
+          "text": "Bolster"
+        },
+        {
+          "id": 4,
+          "name": "guard",
+          "text": "Guard"
+        },
+        {
+          "id": 5,
+          "name": "handle",
+          "text": "Handle"
+        },
+        {
+          "id": 6,
+          "name": "butt",
+          "text": "Butt"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 6,
+          "name": "butt",
+          "text": "Butt"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "model_id": "438",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, create the blade, which will serve as the primary cutting edge of the object, establishing its distinctive shape and functionality. This blade will be positioned prominently at the front of the object, laying the foundation for the subsequent components that will enhance its overall structure and usability.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Finally, add the handle to the base of the blade, ensuring it is securely attached to provide a comfortable grip for the user. This addition is crucial as it not only balances the knife's weight but also enhances control and safety during use, completing the functional design of the object.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 4,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 4,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ]
+    }
+  }
+}

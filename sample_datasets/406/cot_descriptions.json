@@ -1,0 +1,74 @@
+{
+  "model_id": "406",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, create the blade, which will serve as the cutting edge of the object, giving it a sharp and defined shape essential for its intended function. This blade will be positioned prominently at the front, forming the primary component that will interact with materials, thus establishing the object's core utility from the outset.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the bolster at the base of the blade, positioned where it meets the handle, to enhance the structural integrity and provide a seamless transition between these two critical components. This bolster not only supports the blade, ensuring stability during use, but also serves as a protective barrier for the user's hand, improving safety and comfort while handling the knife.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 6,
+          "name": "bolster",
+          "text": "Bolster"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 6,
+          "name": "bolster",
+          "text": "Bolster"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Finally, add the handle to the lower part of the bolster, ensuring it is securely attached for a comfortable grip. This addition not only completes the knife's structure, providing the user with a functional means to hold and control the blade, but it also enhances the overall balance and aesthetics of the object.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 6,
+          "name": "bolster",
+          "text": "Bolster"
+        },
+        {
+          "id": 4,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 4,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "model_id": "117",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, add the handle, which will serve as the primary grip for the user, positioned at the base of the object to ensure comfortable and secure handling. This component is crucial as it provides stability and control, forming the foundation for the overall structure as other parts will be attached to or aligned with it in subsequent steps.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 29,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Finally, add the blade to the top of the handle, ensuring a secure fit at the junction where they meet; this blade is crucial as it defines the tool's primary function, providing the sharp edge necessary for cutting tasks. This connection not only completes the overall structure but also balances the tool, enhancing both its usability and ergonomic design.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "handle",
+          "text": "Handle"
+        },
+        {
+          "id": 31,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 31,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ]
+    }
+  }
+}

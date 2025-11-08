@@ -1,0 +1,3803 @@
+{
+  "model_id": "192",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, add the headrest to the top portion of the chair's frame to provide essential support and comfort for the user's head and neck. This component is crucial as it establishes the upper boundary of the chair, ensuring ergonomic alignment and enhancing the overall seating experience.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the head connector directly beneath the head rest, ensuring a secure and stable attachment that allows for the adjustment of the head rest’s angle. This component is crucial as it provides the necessary pivot point, enabling the head rest to move and cater to the user’s comfort while maintaining structural integrity within the overall design.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, add the Back Soft Surface directly behind the Head Connector to provide comfort and support for the user's back. This addition is essential as it creates a seamless transition from the headrest, ensuring that the user can relax against a soft, cushioned area, enhancing the overall ergonomic design of the object.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Then, add the Back Support to the assembly by positioning it directly behind the Back Soft Surface, ensuring that it aligns seamlessly with the contours of the headrest and head connector. This component is crucial as it provides additional structural integrity and comfort, allowing the user to lean back securely while maintaining proper posture.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Continue by adding the cushioning layer to the back support to enhance comfort and ergonomics for the user. This cushioning will sit directly behind the back soft surface, ensuring that the user has a supportive and plush experience while leaning against the back support, effectively integrating with the previously added components for improved overall functionality.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        }
+      ]
+    },
+    "6": {
+      "step": 6,
+      "description": "Then, add the final Back Support to further enhance the structural integrity of the seating arrangement, positioning it symmetrically with the previously installed supports to ensure balanced support for the user's back. This additional support not only reinforces the overall stability of the back section but also helps distribute weight evenly, contributing to a comfortable and secure seating experience.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        }
+      ]
+    },
+    "7": {
+      "step": 7,
+      "description": "Then, add another Back Support at the lower section of the existing supports to enhance the structural integrity and provide additional stability for the overall backrest assembly. This new support will ensure that the back area is evenly reinforced, distributing weight more effectively and improving comfort for the user.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        }
+      ]
+    },
+    "8": {
+      "step": 8,
+      "description": "Then, add the Back Connector at the junction between the Back Support pieces to enhance stability and create a unified structure that securely anchors the back components. This connector not only reinforces the overall framework but also ensures that the backrest maintains its shape and provides consistent support for the user.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        }
+      ]
+    },
+    "9": {
+      "step": 9,
+      "description": "Then, add the armrests on either side of the back support to provide comfort and stability for the user, enhancing the overall ergonomic design of the object. Their position directly adjacent to the back support ensures that they are well-integrated into the structure, allowing for a seamless transition between the back and the armrests, which will support a natural resting position.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        }
+      ]
+    },
+    "10": {
+      "step": 10,
+      "description": "Then, add the Armrest Hard Surface to the sides of the back assembly, positioned at a comfortable height for the user to rest their arms. This addition not only enhances the overall comfort and usability of the object but also provides structural integrity, linking the back components and helping to define the shape and silhouette of the design.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        }
+      ]
+    },
+    "11": {
+      "step": 11,
+      "description": "Then, add the Arm Connector to the underside of the Armrest Hard Surface, ensuring it securely links the armrest to the back structure of the seat. This component is crucial as it reinforces the stability of the armrest, facilitating support for the user's arms and enhancing the overall durability of the seating arrangement.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        }
+      ]
+    },
+    "12": {
+      "step": 12,
+      "description": "Continue by adding the second Arm Connector to the opposite side of the Armrest Hard Surface, ensuring it mirrors the first arm connector for uniformity and structural integrity. This addition is crucial as it provides support for the armrest while facilitating a stable connection between the armrest and the back structure, enhancing overall comfort and usability of the object.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        }
+      ]
+    },
+    "13": {
+      "step": 13,
+      "description": "Now, add the second Armrest Hard Surface to mirror the first armrest, ensuring both sides of the seating object provide equal support and comfort for the user. This addition is crucial as it complements the arm connectors already in place, reinforcing the structure and enhancing the overall aesthetic by creating a balanced look.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        }
+      ]
+    },
+    "14": {
+      "step": 14,
+      "description": "Then, add the second Arm Connector to the opposite side of the armrest, ensuring it mirrors the first connector added earlier. This piece is crucial for securely anchoring the armrest to the chair's structure, providing stability and allowing the user to rest their arms comfortably while maintaining a balanced design.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        }
+      ]
+    },
+    "15": {
+      "step": 15,
+      "description": "Then, add another Arm Connector to the opposite side of the existing arm connectors, ensuring a balanced and symmetrical structure for the armrest. This connector plays a critical role in securely fastening the armrest hard surface to the back support, providing stability and enhancing the overall integrity of the chair's design.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        }
+      ]
+    },
+    "16": {
+      "step": 16,
+      "description": "Then, add the Seat Soft Surface directly above the base structure, ensuring it aligns with the armrests and back support to create a cohesive seating area. This addition is crucial as it provides comfort and support for the user, while also integrating seamlessly with the existing components to form a complete seating experience.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ]
+    },
+    "17": {
+      "step": 17,
+      "description": "Then, add the Seat Support beneath the Seat Soft Surface to provide essential structural integrity and stability to the seating area. This connection ensures that the seat can adequately bear weight while seamlessly integrating with the surrounding components, such as the back support and armrests, maintaining the overall design and functionality of the object.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 59,
+          "name": "seat_support",
+          "text": "Seat Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 59,
+          "name": "seat_support",
+          "text": "Seat Support"
+        }
+      ]
+    },
+    "18": {
+      "step": 18,
+      "description": "Then, add the leg to the underside of the seat support, positioning it at a 90-degree angle to provide stable support for the entire structure. This leg is essential for ensuring the object maintains its balance and can withstand the weight of users while also complementing the overall design by connecting the seat and floor effectively.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 59,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "19": {
+      "step": 19,
+      "description": "Then, add the second leg on the opposite side of the seat to ensure stability and balance for the overall structure. This leg connects directly with the seat support and aligns with the first leg to distribute weight evenly, providing a solid foundation for the chair as it will support the user's weight during use.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 59,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 13,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 13,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "20": {
+      "step": 20,
+      "description": "Then, add the second leg to the opposite side of the seat support, ensuring it mirrors the first leg for balance and stability. This leg is crucial for providing structural integrity to the overall object, allowing it to support weight evenly and maintain its upright position.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 59,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 13,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 14,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 14,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "21": {
+      "step": 21,
+      "description": "Then, add the fourth leg to the opposite side of the existing legs, ensuring it provides stability and balance to the overall structure. This new leg will connect seamlessly with the seat support, completing the foundational framework that supports the weight of the seat and enhances the object's durability.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 59,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 13,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 14,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 15,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 15,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "22": {
+      "step": 22,
+      "description": "Then, attach the wheel to the bottom of each leg to provide mobility and stability, allowing the object to be easily moved while supporting its overall structure. This addition is essential for enhancing the functionality of the object, ensuring that the weight distribution from the seat and back supports is effectively managed while maintaining balance during movement.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 59,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 13,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 14,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 15,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 43,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 43,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ]
+    },
+    "23": {
+      "step": 23,
+      "description": "Then, install the second wheel on the opposite side of the existing wheel to ensure balance and stability for the object as it moves. This addition is critical as it not only provides support for the legs but also enhances maneuverability, allowing the entire structure to pivot smoothly while maintaining its integrity.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 59,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 13,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 14,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 15,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 43,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 44,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 44,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ]
+    },
+    "24": {
+      "step": 24,
+      "description": "Then, add the caster stem to the bottom of each leg to enable smooth mobility and enhance the overall functionality of the object. This component connects directly to the legs, allowing the wheels to pivot and providing the ability to move the object easily while maintaining stability and support from the existing leg structure.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 59,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 13,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 14,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 15,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 43,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 44,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 78,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 78,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        }
+      ]
+    },
+    "25": {
+      "step": 25,
+      "description": "Then, add the second wheel to the opposite side of the chair's base, ensuring balanced mobility and stability. This wheel will work in conjunction with the previously installed wheels to facilitate smooth movement across different surfaces, enhancing the overall functionality of the chair.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 59,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 13,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 14,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 15,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 43,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 44,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 78,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 40,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 40,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ]
+    },
+    "26": {
+      "step": 26,
+      "description": "Then, add another wheel to the opposite side of the existing wheels to ensure balanced mobility and stability for the object. This addition is crucial as it provides an even distribution of weight, allowing the object to roll smoothly in multiple directions while maintaining its structural integrity.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 59,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 13,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 14,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 15,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 43,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 44,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 78,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 40,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 41,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 41,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ]
+    },
+    "27": {
+      "step": 27,
+      "description": "Now, add the caster stem to the underside of the chair’s legs, ensuring it is securely attached at each leg’s base. This component is crucial as it provides the pivot point for the wheels, allowing for smooth mobility and maneuverability of the chair, enhancing its overall functionality and user experience.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 59,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 13,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 14,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 15,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 43,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 44,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 78,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 40,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 41,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 79,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 79,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        }
+      ]
+    },
+    "28": {
+      "step": 28,
+      "description": "Then, add another wheel to the opposite side of the existing wheels, ensuring it is securely attached to the caster stem for balanced mobility. This addition is crucial as it pairs with the previously installed wheels, allowing for smooth and stable movement of the entire object while maintaining an even distribution of weight across all four legs.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 59,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 13,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 14,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 15,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 43,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 44,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 78,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 40,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 41,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 79,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 33,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 33,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ]
+    },
+    "29": {
+      "step": 29,
+      "description": "Then, add another wheel to the opposite side of the previous wheel installation, ensuring it is positioned symmetrically beneath the leg for balanced support and mobility. This additional wheel is crucial for enhancing the object's maneuverability, allowing it to glide smoothly across surfaces while maintaining stability and weight distribution.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 59,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 13,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 14,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 15,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 43,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 44,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 78,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 40,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 41,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 79,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 33,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 34,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 34,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ]
+    },
+    "30": {
+      "step": 30,
+      "description": "Then, add the second caster stem to the existing wheel assembly, positioning it directly opposite the first caster stem that was added, ensuring balanced mobility for the object. This addition is crucial as it facilitates smooth, multidirectional movement, allowing the entire structure to pivot easily while maintaining stability and support from the surrounding legs and wheels.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 59,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 13,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 14,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 15,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 43,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 44,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 78,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 40,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 41,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 79,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 33,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 34,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 80,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 80,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        }
+      ]
+    },
+    "31": {
+      "step": 31,
+      "description": "Then, add another wheel to the opposite side of the previous wheel, ensuring that it aligns with the existing wheel assembly for balance and stability. This wheel will facilitate smooth movement, enhancing the overall mobility of the object while evenly distributing weight across the four legs, crucial for maintaining structural integrity and support.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 59,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 13,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 14,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 15,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 43,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 44,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 78,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 40,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 41,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 79,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 33,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 34,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 80,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 37,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 37,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ]
+    },
+    "32": {
+      "step": 32,
+      "description": "Then, add another wheel to the remaining leg of the chair, ensuring it is evenly spaced with the other wheels for stability and balance. This additional wheel will enhance mobility, allowing the chair to roll smoothly in various directions, which is crucial for user convenience and comfort.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 59,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 13,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 14,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 15,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 43,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 44,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 78,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 40,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 41,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 79,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 33,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 34,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 80,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 37,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 38,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 38,
+          "name": "wheel",
+          "text": "Wheel"
+        }
+      ]
+    },
+    "33": {
+      "step": 33,
+      "description": "Then, add the final caster stem to the existing structure, positioning it securely beneath the last wheel to ensure stability and mobility. This caster stem enhances the overall functionality of the object by allowing for smooth movement, while also providing a sturdy connection that integrates seamlessly with the surrounding wheels and legs, completing the assembly of the mobility system.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 59,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 13,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 14,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 15,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 43,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 44,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 78,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 40,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 41,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 79,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 33,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 34,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 80,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 37,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 38,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 77,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 77,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        }
+      ]
+    },
+    "34": {
+      "step": 34,
+      "description": "Then, add the central support positioned directly beneath the seat support, effectively providing additional stability and strength to the overall structure. This central support is crucial as it helps distribute weight evenly across the legs and wheels, reinforcing the chair’s foundation and enhancing its durability during use.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 59,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 13,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 14,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 15,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 43,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 44,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 78,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 40,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 41,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 79,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 33,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 34,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 80,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 37,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 38,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 77,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 49,
+          "name": "central_support",
+          "text": "Central Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 49,
+          "name": "central_support",
+          "text": "Central Support"
+        }
+      ]
+    },
+    "35": {
+      "step": 35,
+      "description": "Then, add the armrest padding to cover the hard surfaces of the armrests, providing a comfortable resting place for the user’s arms. This padding not only enhances the overall comfort of the chair but also ties in with the existing armrest hard surfaces, ensuring a cohesive and functional design that supports long periods of use.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 59,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 13,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 14,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 15,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 43,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 44,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 78,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 40,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 41,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 79,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 33,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 34,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 80,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 37,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 38,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 77,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 49,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 50,
+          "name": "central_support",
+          "text": "Central Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 50,
+          "name": "central_support",
+          "text": "Central Support"
+        }
+      ]
+    },
+    "36": {
+      "step": 36,
+      "description": "Complete by adding the final central support, which will reinforce the overall structure and stability of the chair, connecting the previously added central supports and ensuring that all weight is distributed evenly across the legs and wheels. This final piece integrates seamlessly with the existing framework, offering both strength and durability, thus enhancing the functionality and longevity of the chair as a whole.",
+      "parts": [
+        {
+          "id": 75,
+          "name": "headrest",
+          "text": "Head Rest"
+        },
+        {
+          "id": 76,
+          "name": "head_connector",
+          "text": "Head Connector"
+        },
+        {
+          "id": 72,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 68,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 69,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 70,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 71,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 73,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 74,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 64,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 65,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 66,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 61,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 62,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 63,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 60,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 59,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 13,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 14,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 15,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 43,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 44,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 78,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 40,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 41,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 79,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 33,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 34,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 80,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 37,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 38,
+          "name": "wheel",
+          "text": "Wheel"
+        },
+        {
+          "id": 77,
+          "name": "caster_stem",
+          "text": "Caster Stem"
+        },
+        {
+          "id": 49,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 50,
+          "name": "central_support",
+          "text": "Central Support"
+        },
+        {
+          "id": 51,
+          "name": "central_support",
+          "text": "Central Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 51,
+          "name": "central_support",
+          "text": "Central Support"
+        }
+      ]
+    }
+  }
+}

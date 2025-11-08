@@ -1,0 +1,20 @@
+{
+  "step": 3,
+  "parts": [
+    {
+      "id": 47,
+      "name": "back_hard_surface",
+      "text": "Back Hard Surface"
+    },
+    {
+      "id": 59,
+      "name": "back_frame_vertical_bar",
+      "text": "Back Frame Vertical Bar"
+    },
+    {
+      "id": 60,
+      "name": "back_frame_vertical_bar",
+      "text": "Back Frame Vertical Bar"
+    }
+  ]
+}

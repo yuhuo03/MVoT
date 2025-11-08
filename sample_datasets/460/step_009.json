@@ -1,0 +1,50 @@
+{
+  "step": 9,
+  "parts": [
+    {
+      "id": 51,
+      "name": "back_hard_surface",
+      "text": "Back Hard Surface"
+    },
+    {
+      "id": 52,
+      "name": "back_support",
+      "text": "Back Support"
+    },
+    {
+      "id": 48,
+      "name": "armrest_hard_surface",
+      "text": "Armrest Hard Surface"
+    },
+    {
+      "id": 49,
+      "name": "arm_connector",
+      "text": "Arm Connector"
+    },
+    {
+      "id": 43,
+      "name": "armrest_hard_surface",
+      "text": "Armrest Hard Surface"
+    },
+    {
+      "id": 47,
+      "name": "arm_connector",
+      "text": "Arm Connector"
+    },
+    {
+      "id": 39,
+      "name": "seat_hard_surface",
+      "text": "Seat Hard Surface"
+    },
+    {
+      "id": 37,
+      "name": "seat_frame_horizontal_bar",
+      "text": "Seat Frame Horizontal Bar"
+    },
+    {
+      "id": 38,
+      "name": "seat_frame_horizontal_bar",
+      "text": "Seat Frame Horizontal Bar"
+    }
+  ]
+}

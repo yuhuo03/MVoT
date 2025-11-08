@@ -1,0 +1,893 @@
+{
+  "model_id": "469",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, add the Back Soft Surface to the rear section of the object, ensuring it is securely positioned to provide a comfortable and cushioned area for the user. This initial component is crucial as it establishes the foundational support and enhances the overall ergonomics of the design, setting the stage for further elements to be integrated seamlessly.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 29,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the Back Soft Surface to the top section of the existing back soft surface, ensuring it aligns seamlessly with the contours below. This additional layer enhances the overall comfort and support of the object, reinforcing the structural integrity while providing a cohesive aesthetic that complements the previously added back soft surface.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 30,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 30,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, add the Armrest Hard Surface to the sides of the back soft surfaces, positioning it at a comfortable height for users to rest their arms while seated. This addition is crucial as it provides structural support and enhances the overall ergonomics of the object, allowing for a more comfortable user experience while maintaining stability in the design.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 30,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 21,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 21,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Then, add the Arm Vertical Bar, positioning it vertically between the armrest hard surface and the back soft surfaces to provide essential structural support and stability for the armrest. This bar not only reinforces the connection between the armrest and the back but also enhances the overall integrity of the seat by distributing weight evenly across the framework.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 30,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 21,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 22,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 22,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Continue by adding the second Arm Vertical Bar parallel to the first one, ensuring it aligns perfectly with the existing structure to provide balance and support. This addition not only enhances the stability of the armrest but also reinforces the overall framework, creating a cohesive design that integrates seamlessly with the back soft surfaces.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 30,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 21,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 22,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 23,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 23,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ]
+    },
+    "6": {
+      "step": 6,
+      "description": "Then, add the Arm Horizontal Bar across the top of the two Arm Vertical Bars to provide stability and support for the armrest structure. This horizontal component connects the vertical bars, reinforcing the overall integrity of the armrest while creating a defined area for the user to rest their arms comfortably.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 30,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 21,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 22,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 23,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 24,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 24,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        }
+      ]
+    },
+    "7": {
+      "step": 7,
+      "description": "Then, add the second Armrest Hard Surface to the opposite side of the existing armrest, ensuring it mirrors the first and creates a balanced and symmetrical appearance. This addition not only provides a cohesive look but also enhances the overall structural integrity and comfort of the armrests, enabling users to rest their arms comfortably on both sides.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 30,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 21,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 22,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 23,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 24,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 17,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 17,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        }
+      ]
+    },
+    "8": {
+      "step": 8,
+      "description": "Then, add another Arm Vertical Bar to the opposite side of the existing structure, ensuring it mirrors the first vertical bar for symmetry and balance. This additional vertical bar is crucial for providing structural support to the armrest and enhancing the overall stability of the armrest assembly, reinforcing the connection between both armrest surfaces.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 30,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 21,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 22,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 23,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 24,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 17,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 18,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 18,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ]
+    },
+    "9": {
+      "step": 9,
+      "description": "Then, add another Arm Vertical Bar adjacent to the previously installed vertical bars to enhance the structural integrity of the armrest assembly. This additional bar will provide necessary support and stability, ensuring that the armrest can withstand the weight and pressure applied during use, while also maintaining the overall aesthetic symmetry of the design.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 30,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 21,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 22,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 23,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 24,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 17,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 18,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 19,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 19,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ]
+    },
+    "10": {
+      "step": 10,
+      "description": "Then, add the second Arm Horizontal Bar to connect the two Arm Vertical Bars, reinforcing the structure of the armrest and providing additional support for the user's arms. This bar not only enhances stability but also creates a cohesive visual flow between the existing vertical bars and the armrest hard surfaces, ensuring a well-balanced design.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 30,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 21,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 22,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 23,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 24,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 17,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 18,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 19,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 20,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 20,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        }
+      ]
+    },
+    "11": {
+      "step": 11,
+      "description": "Now, add the Seat Soft Surface to the top of the frame, positioning it directly above the armrest hard surfaces and supported by the arm horizontal bars. This soft surface will provide a comfortable seating area, enhancing the overall usability of the object while ensuring it is securely integrated with the existing structure for stability and support.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 30,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 21,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 22,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 23,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 24,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 17,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 18,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 19,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 20,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 31,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 31,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ]
+    },
+    "12": {
+      "step": 12,
+      "description": "Now, add the armrest soft surface over the existing armrest hard surfaces to provide a comfortable and cushioned area for users to rest their arms. This soft layer not only enhances the overall aesthetic of the armrests but also ensures a more pleasant experience, as it complements the structural support provided by the hard surfaces beneath.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 30,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 21,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 22,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 23,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 24,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 17,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 18,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 19,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 20,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 31,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 32,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 32,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ]
+    },
+    "13": {
+      "step": 13,
+      "description": "Then, add the leg at each corner of the seat to provide essential support and stability for the entire structure, ensuring that the weight is evenly distributed. This connection not only reinforces the seat and back soft surfaces but also maintains the overall balance of the chair, allowing for comfortable use.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 30,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 21,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 22,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 23,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 24,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 17,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 18,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 19,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 20,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 31,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 32,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "14": {
+      "step": 14,
+      "description": "Then, add the second leg to the opposite side of the structure, ensuring it mirrors the first leg for stability and balance. This leg will support the overall weight of the object and maintain its upright position, connecting seamlessly with the seat soft surfaces and reinforcing the entire framework.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 30,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 21,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 22,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 23,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 24,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 17,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 18,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 19,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 20,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 31,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 32,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "15": {
+      "step": 15,
+      "description": "Then, add another leg to the opposite side of the chair to ensure stability and balance, mirroring the previously added leg. This additional leg not only supports the overall structure but also provides equal weight distribution, enhancing the chair's functionality and durability.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 30,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 21,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 22,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 23,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 24,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 17,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 18,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 19,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 20,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 31,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 32,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 11,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 11,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "16": {
+      "step": 16,
+      "description": "Finally, add the fourth leg to the structure, positioning it at the remaining corner of the seat to ensure stability and balance for the entire object. This leg will support the weight evenly alongside the other three legs, completing the base and allowing the seating area to function effectively and securely for users.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 30,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 21,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 22,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 23,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 24,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 17,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 18,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 19,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 20,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 31,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 32,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 11,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 12,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    }
+  }
+}

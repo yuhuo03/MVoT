@@ -1,0 +1,236 @@
+{
+  "model_id": "468",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, add the back hard surface at the rear of the object to establish a robust foundation that will support the overall structure. This component is crucial as it will provide stability and a defined boundary for the subsequent parts that will be attached, ensuring they are anchored securely and aligned properly.",
+      "parts": [
+        {
+          "id": 18,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 18,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the sofa-style arm to the sides of the back hard surface, ensuring it extends outward to create a comfortable resting place for users. This addition not only enhances the aesthetic appeal of the object but also provides essential support and stability, allowing for a more inviting and functional design.",
+      "parts": [
+        {
+          "id": 18,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 16,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 16,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, add the second Sofa-style Arm on the opposite side of the existing arm to create symmetry and balance in the design. This arm will not only provide additional support for seating but also enhance the overall aesthetic, ensuring that the structure remains visually cohesive and functional.",
+      "parts": [
+        {
+          "id": 18,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 16,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 15,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 15,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Then, add the Seat Soft Surface, positioning it directly between the two Sofa-style Arms to create a comfortable seating area for the user. This soft surface is essential for providing the necessary cushioning and support, enhancing the overall comfort of the sofa and ensuring a cohesive design with the existing hard back and arms.",
+      "parts": [
+        {
+          "id": 18,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 16,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 15,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 14,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 14,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Then, add the Seat Support beneath the Seat Soft Surface to provide essential structural integrity and stability for the seating area. This support connects to the back_hard_surface at the rear and reinforces the overall framework, ensuring that the seat can withstand weight and usage over time.",
+      "parts": [
+        {
+          "id": 18,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 16,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 15,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 14,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 13,
+          "name": "seat_support",
+          "text": "Seat Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 13,
+          "name": "seat_support",
+          "text": "Seat Support"
+        }
+      ]
+    },
+    "6": {
+      "step": 6,
+      "description": "Then, add the Ground Surface beneath the Seat Support to provide a stable foundation for the entire seating structure, ensuring it has a solid base that can bear the weight of the seat and its users. This surface connects directly with the bottom of the Seat Support, enhancing the overall stability and durability of the object while also facilitating the correct alignment of the seating arrangement.",
+      "parts": [
+        {
+          "id": 18,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 16,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 15,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 14,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 13,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 20,
+          "name": "ground_surface",
+          "text": "Ground Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 20,
+          "name": "ground_surface",
+          "text": "Ground Surface"
+        }
+      ]
+    },
+    "7": {
+      "step": 7,
+      "description": "Finally, add the Side Surface to create a cohesive look and enhance the structural integrity of the object by connecting the two sofa-style arms to the back hard surface and seat soft surface. This addition not only completes the enclosure of the seating area but also provides additional support and stability, ensuring that the overall design is both aesthetically pleasing and functional.",
+      "parts": [
+        {
+          "id": 18,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 16,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 15,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 14,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 13,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 20,
+          "name": "ground_surface",
+          "text": "Ground Surface"
+        },
+        {
+          "id": 21,
+          "name": "side_surface",
+          "text": "Side Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 21,
+          "name": "side_surface",
+          "text": "Side Surface"
+        }
+      ]
+    }
+  }
+}

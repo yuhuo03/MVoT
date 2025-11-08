@@ -1,0 +1,35 @@
+{
+  "step": 6,
+  "parts": [
+    {
+      "id": 26,
+      "name": "back_soft_surface",
+      "text": "Back Soft Surface"
+    },
+    {
+      "id": 18,
+      "name": "back_support",
+      "text": "Back Support"
+    },
+    {
+      "id": 19,
+      "name": "back_support",
+      "text": "Back Support"
+    },
+    {
+      "id": 20,
+      "name": "back_connector",
+      "text": "Back Connector"
+    },
+    {
+      "id": 21,
+      "name": "back_connector",
+      "text": "Back Connector"
+    },
+    {
+      "id": 13,
+      "name": "arm_vertical_bar",
+      "text": "Arm Vertical Bar"
+    }
+  ]
+}

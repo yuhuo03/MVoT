@@ -1,0 +1,893 @@
+{
+  "model_id": "197",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, add the back soft surface to form the foundational layer of the object, providing a comfortable and supportive area against which other components will be built. This surface is crucial as it sets the stage for stability and enhances user interaction by ensuring a soft touchpoint that complements the overall design.",
+      "parts": [
+        {
+          "id": 23,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 23,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the Back Holistic Frame positioned directly above the Back Soft Surface to provide structural integrity and support for the overall shape of the object. This frame is crucial as it reinforces the soft surface, ensuring that the object maintains its form while allowing for flexibility and cushioning where needed.",
+      "parts": [
+        {
+          "id": 23,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 22,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, add the Arm Vertical Bar, positioning it vertically along one side of the Back Holistic Frame to provide essential structural support and stability to the overall design. This bar will serve as a critical connection point for future components, ensuring that the assembly remains robust while also facilitating the integration of the arms for functionality.",
+      "parts": [
+        {
+          "id": 23,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 17,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 17,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Then, add the Arm Horizontal Bar, positioning it horizontally between the Arm Vertical Bar and the Back Holistic Frame to create a robust support structure. This addition will enhance stability and provide a solid framework for future components, effectively linking the vertical support with the overall back structure.",
+      "parts": [
+        {
+          "id": 23,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 17,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 18,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 18,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Then, add the sofa-style arm to the top of the arm vertical bar, ensuring that it seamlessly integrates with both the vertical and horizontal bars for a cohesive look. This addition serves not only to provide a comfortable resting place for the user’s arms but also reinforces the structural integrity of the arm assembly, connecting the existing components into a unified design.",
+      "parts": [
+        {
+          "id": 23,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 17,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 18,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        }
+      ]
+    },
+    "6": {
+      "step": 6,
+      "description": "Then, add the Seat Soft Surface directly above the Arm Horizontal Bar to create a comfortable seating area for users. This addition is crucial as it not only provides cushioning and support for sitting but also integrates seamlessly with the existing framework, ensuring stability and enhancing the overall aesthetic of the object.",
+      "parts": [
+        {
+          "id": 23,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 17,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 18,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ]
+    },
+    "7": {
+      "step": 7,
+      "description": "Then, add the Seat Support beneath the Seat Soft Surface to provide essential structural integrity and stability for the seating area. This support connects directly to both the Back Holistic Frame and the Arm Horizontal Bar, ensuring that the weight is evenly distributed and the overall durability of the object is enhanced, creating a comfortable and secure place to sit.",
+      "parts": [
+        {
+          "id": 23,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 17,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 18,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 16,
+          "name": "seat_support",
+          "text": "Seat Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 16,
+          "name": "seat_support",
+          "text": "Seat Support"
+        }
+      ]
+    },
+    "8": {
+      "step": 8,
+      "description": "Then, add the Seat Holistic Frame underneath the Seat Soft Surface to provide essential structural integrity and support for the entire seating area. This frame will connect to the Seat Support, reinforcing the overall stability of the sofa and ensuring that the soft surface maintains its shape during use.",
+      "parts": [
+        {
+          "id": 23,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 17,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 18,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 16,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 25,
+          "name": "seat_holistic_frame",
+          "text": "Seat Holistic Frame"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 25,
+          "name": "seat_holistic_frame",
+          "text": "Seat Holistic Frame"
+        }
+      ]
+    },
+    "9": {
+      "step": 9,
+      "description": "Then, add the Seat Frame Horizontal Bar across the front section of the seat support to enhance the structural integrity of the seating area. This bar will provide additional stability and support for the seat soft surface, ensuring that it maintains its shape and can withstand regular use while connecting seamlessly with both the seat holistic frame and the existing seat support.",
+      "parts": [
+        {
+          "id": 23,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 17,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 18,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 16,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 25,
+          "name": "seat_holistic_frame",
+          "text": "Seat Holistic Frame"
+        },
+        {
+          "id": 26,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 26,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        }
+      ]
+    },
+    "10": {
+      "step": 10,
+      "description": "Then, add the leg to the base of the sofa to provide essential support and stability, ensuring that the entire structure remains balanced and functional. This leg will connect directly to the seat frame, reinforcing the integrity of the sofa while also elevating it off the ground, which is crucial for both comfort and aesthetics.",
+      "parts": [
+        {
+          "id": 23,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 17,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 18,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 16,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 25,
+          "name": "seat_holistic_frame",
+          "text": "Seat Holistic Frame"
+        },
+        {
+          "id": 26,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 6,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 6,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "11": {
+      "step": 11,
+      "description": "Then, install the second leg on the opposite side of the already placed leg, ensuring it mirrors the first leg's height and position for stability and balance. This addition is crucial as it provides equal support to the structure, preventing any tipping and ensuring the overall integrity of the object as it stands.",
+      "parts": [
+        {
+          "id": 23,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 17,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 18,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 16,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 25,
+          "name": "seat_holistic_frame",
+          "text": "Seat Holistic Frame"
+        },
+        {
+          "id": 26,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 6,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "12": {
+      "step": 12,
+      "description": "Then, add the final leg to the opposing corner of the sofa to ensure stability and balance across the entire structure. This leg will connect securely to the seat holistic frame and support the weight of the sofa, providing a sturdy foundation that complements the previously installed legs.",
+      "parts": [
+        {
+          "id": 23,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 17,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 18,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 16,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 25,
+          "name": "seat_holistic_frame",
+          "text": "Seat Holistic Frame"
+        },
+        {
+          "id": 26,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 6,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "13": {
+      "step": 13,
+      "description": "Then, add the fourth leg to the opposite side of the existing legs, ensuring it is positioned symmetrically to provide balanced support for the entire structure. This leg is crucial for maintaining the stability of the object, distributing weight evenly across all four corners, and enhancing the overall durability and functionality of the sofa.",
+      "parts": [
+        {
+          "id": 23,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 17,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 18,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 16,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 25,
+          "name": "seat_holistic_frame",
+          "text": "Seat Holistic Frame"
+        },
+        {
+          "id": 26,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 6,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "14": {
+      "step": 14,
+      "description": "Continue by adding the arm vertical bar, positioning it vertically between the sofa-style arm and the back holistic frame, which provides essential structural integrity and support to the armrest. This addition not only enhances the overall stability of the sofa but also ensures that the arm is securely anchored, allowing for proper weight distribution and comfort when users lean against it.",
+      "parts": [
+        {
+          "id": 23,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 17,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 18,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 16,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 25,
+          "name": "seat_holistic_frame",
+          "text": "Seat Holistic Frame"
+        },
+        {
+          "id": 26,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 6,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 28,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 28,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ]
+    },
+    "15": {
+      "step": 15,
+      "description": "Then, add the second Arm Horizontal Bar to the top of the Arm Vertical Bars, ensuring it connects securely on either side of the sofa-style arm. This addition reinforces the overall structure and stability of the arm, providing a cohesive framework that supports the soft surface while enhancing the aesthetic appeal of the sofa.",
+      "parts": [
+        {
+          "id": 23,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 17,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 18,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 16,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 25,
+          "name": "seat_holistic_frame",
+          "text": "Seat Holistic Frame"
+        },
+        {
+          "id": 26,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 6,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 28,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 29,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 29,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        }
+      ]
+    },
+    "16": {
+      "step": 16,
+      "description": "Finally, add the sofa-style arm to the outer sides of the arm vertical bars, ensuring it seamlessly integrates with the overall aesthetic and structure of the sofa. This arm not only enhances the comfort and style of the piece but also provides essential lateral support, completing the design by unifying the back and seat surfaces with the armrests, resulting in a cohesive and functional seating arrangement.",
+      "parts": [
+        {
+          "id": 23,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 17,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 18,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 16,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 25,
+          "name": "seat_holistic_frame",
+          "text": "Seat Holistic Frame"
+        },
+        {
+          "id": 26,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 6,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 28,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 29,
+          "name": "arm_horizontal_bar",
+          "text": "Arm Horizontal Bar"
+        },
+        {
+          "id": 30,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 30,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        }
+      ]
+    }
+  }
+}

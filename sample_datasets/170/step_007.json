@@ -1,0 +1,40 @@
+{
+  "step": 7,
+  "parts": [
+    {
+      "id": 2,
+      "name": "switch",
+      "text": "Switch"
+    },
+    {
+      "id": 9,
+      "name": "surface_base",
+      "text": "Surface Base"
+    },
+    {
+      "id": 10,
+      "name": "surface_base",
+      "text": "Surface Base"
+    },
+    {
+      "id": 11,
+      "name": "vertical_support",
+      "text": "Vertical Support"
+    },
+    {
+      "id": 12,
+      "name": "vertical_support",
+      "text": "Vertical Support"
+    },
+    {
+      "id": 13,
+      "name": "connector",
+      "text": "Connector"
+    },
+    {
+      "id": 15,
+      "name": "horizontal_support",
+      "text": "Horizontal Support"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "step": 5,
+  "parts": [
+    {
+      "id": 23,
+      "name": "back_soft_surface",
+      "text": "Back Soft Surface"
+    },
+    {
+      "id": 22,
+      "name": "back_holistic_frame",
+      "text": "Back Holistic Frame"
+    },
+    {
+      "id": 17,
+      "name": "arm_vertical_bar",
+      "text": "Arm Vertical Bar"
+    },
+    {
+      "id": 18,
+      "name": "arm_horizontal_bar",
+      "text": "Arm Horizontal Bar"
+    },
+    {
+      "id": 19,
+      "name": "arm_sofa_style",
+      "text": "Sofa-style Arm"
+    }
+  ]
+}

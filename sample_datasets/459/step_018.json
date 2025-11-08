@@ -1,0 +1,95 @@
+{
+  "step": 18,
+  "parts": [
+    {
+      "id": 26,
+      "name": "back_surface_horizontal_bar",
+      "text": "Back Surface Horizontal Bar"
+    },
+    {
+      "id": 27,
+      "name": "back_surface_horizontal_bar",
+      "text": "Back Surface Horizontal Bar"
+    },
+    {
+      "id": 28,
+      "name": "back_surface_horizontal_bar",
+      "text": "Back Surface Horizontal Bar"
+    },
+    {
+      "id": 29,
+      "name": "back_surface_horizontal_bar",
+      "text": "Back Surface Horizontal Bar"
+    },
+    {
+      "id": 30,
+      "name": "back_surface_horizontal_bar",
+      "text": "Back Surface Horizontal Bar"
+    },
+    {
+      "id": 31,
+      "name": "back_surface_horizontal_bar",
+      "text": "Back Surface Horizontal Bar"
+    },
+    {
+      "id": 32,
+      "name": "back_surface_horizontal_bar",
+      "text": "Back Surface Horizontal Bar"
+    },
+    {
+      "id": 33,
+      "name": "back_surface_horizontal_bar",
+      "text": "Back Surface Horizontal Bar"
+    },
+    {
+      "id": 23,
+      "name": "back_frame_vertical_bar",
+      "text": "Back Frame Vertical Bar"
+    },
+    {
+      "id": 24,
+      "name": "back_frame_vertical_bar",
+      "text": "Back Frame Vertical Bar"
+    },
+    {
+      "id": 25,
+      "name": "back_frame_horizontal_bar",
+      "text": "Back Frame Horizontal Bar"
+    },
+    {
+      "id": 16,
+      "name": "seat_surface_horizontal_bar",
+      "text": "Seat Surface Horizontal Bar"
+    },
+    {
+      "id": 17,
+      "name": "seat_surface_horizontal_bar",
+      "text": "Seat Surface Horizontal Bar"
+    },
+    {
+      "id": 18,
+      "name": "seat_surface_horizontal_bar",
+      "text": "Seat Surface Horizontal Bar"
+    },
+    {
+      "id": 19,
+      "name": "seat_surface_horizontal_bar",
+      "text": "Seat Surface Horizontal Bar"
+    },
+    {
+      "id": 20,
+      "name": "seat_surface_horizontal_bar",
+      "text": "Seat Surface Horizontal Bar"
+    },
+    {
+      "id": 14,
+      "name": "seat_frame_horizontal_bar",
+      "text": "Seat Frame Horizontal Bar"
+    },
+    {
+      "id": 34,
+      "name": "seat_frame_vertical_bar",
+      "text": "Seat Frame Vertical Bar"
+    }
+  ]
+}

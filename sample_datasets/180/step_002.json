@@ -1,0 +1,15 @@
+{
+  "step": 2,
+  "parts": [
+    {
+      "id": 31,
+      "name": "arm_vertical_bar",
+      "text": "Arm Vertical Bar"
+    },
+    {
+      "id": 32,
+      "name": "arm_vertical_bar",
+      "text": "Arm Vertical Bar"
+    }
+  ]
+}

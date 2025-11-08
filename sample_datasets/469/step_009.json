@@ -1,0 +1,50 @@
+{
+  "step": 9,
+  "parts": [
+    {
+      "id": 29,
+      "name": "back_soft_surface",
+      "text": "Back Soft Surface"
+    },
+    {
+      "id": 30,
+      "name": "back_soft_surface",
+      "text": "Back Soft Surface"
+    },
+    {
+      "id": 21,
+      "name": "armrest_hard_surface",
+      "text": "Armrest Hard Surface"
+    },
+    {
+      "id": 22,
+      "name": "arm_vertical_bar",
+      "text": "Arm Vertical Bar"
+    },
+    {
+      "id": 23,
+      "name": "arm_vertical_bar",
+      "text": "Arm Vertical Bar"
+    },
+    {
+      "id": 24,
+      "name": "arm_horizontal_bar",
+      "text": "Arm Horizontal Bar"
+    },
+    {
+      "id": 17,
+      "name": "armrest_hard_surface",
+      "text": "Armrest Hard Surface"
+    },
+    {
+      "id": 18,
+      "name": "arm_vertical_bar",
+      "text": "Arm Vertical Bar"
+    },
+    {
+      "id": 19,
+      "name": "arm_vertical_bar",
+      "text": "Arm Vertical Bar"
+    }
+  ]
+}

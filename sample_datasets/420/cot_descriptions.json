@@ -1,0 +1,74 @@
+{
+  "model_id": "420",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, create the blade, which serves as the essential cutting edge of the knife, defining its primary function and sharpness. This blade will extend outward from the handle once it is added in the subsequent steps, establishing the knife's overall shape and ensuring it can perform its intended task efficiently.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the handle directly beneath the blade to provide a secure grip for the user, ensuring comfort and control while using the knife. This connection not only balances the overall structure but also enhances the functionality by allowing the user to maneuver the blade effectively during cutting tasks.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 4,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 4,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Finally, add the other_leaf to the opposite side of the blade, mirroring the existing leaf to create symmetry and enhance the aesthetic appeal of the object. This addition not only balances the design but also contributes to the overall functionality, ensuring that the object maintains its structural integrity and performs effectively during use.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 4,
+          "name": "handle",
+          "text": "Handle"
+        },
+        {
+          "id": 7,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 7,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        }
+      ]
+    }
+  }
+}

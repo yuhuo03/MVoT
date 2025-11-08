@@ -1,0 +1,35 @@
+{
+  "step": 6,
+  "parts": [
+    {
+      "id": 37,
+      "name": "back_hard_surface",
+      "text": "Back Hard Surface"
+    },
+    {
+      "id": 35,
+      "name": "back_frame_vertical_bar",
+      "text": "Back Frame Vertical Bar"
+    },
+    {
+      "id": 36,
+      "name": "back_frame_vertical_bar",
+      "text": "Back Frame Vertical Bar"
+    },
+    {
+      "id": 32,
+      "name": "seat_hard_surface",
+      "text": "Seat Hard Surface"
+    },
+    {
+      "id": 45,
+      "name": "seat_frame_vertical_bar",
+      "text": "Seat Frame Vertical Bar"
+    },
+    {
+      "id": 46,
+      "name": "seat_frame_vertical_bar",
+      "text": "Seat Frame Vertical Bar"
+    }
+  ]
+}

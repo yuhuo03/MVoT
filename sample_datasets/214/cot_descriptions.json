@@ -1,0 +1,145 @@
+{
+  "model_id": "214",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, create the blade, which serves as the essential cutting component of the knife, positioned prominently at the front to enable effective slicing and chopping. This initial addition is crucial as it establishes the knife's primary function and shape, setting the foundation for the subsequent parts that will enhance its usability and design.",
+      "parts": [
+        {
+          "id": 4,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 4,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the bolster at the base of the blade, positioned where the blade meets the handle, to provide essential structural support and enhance the overall strength of the knife. This component not only reinforces the connection between the blade and handle but also helps protect the user's hand from slipping onto the blade during use, ensuring safety and stability in handling.",
+      "parts": [
+        {
+          "id": 4,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 5,
+          "name": "bolster",
+          "text": "Bolster"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 5,
+          "name": "bolster",
+          "text": "Bolster"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, attach the guard just below the bolster, ensuring it spans across the width of the blade’s base. This component serves as a protective barrier for the hand, preventing accidental slips onto the blade while also reinforcing the structural integrity at the junction where the blade meets the handle.",
+      "parts": [
+        {
+          "id": 4,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 5,
+          "name": "bolster",
+          "text": "Bolster"
+        },
+        {
+          "id": 6,
+          "name": "guard",
+          "text": "Guard"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 6,
+          "name": "guard",
+          "text": "Guard"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Now, add the handle to the lower section of the knife, ensuring it securely connects to the bolster and guard, which collectively provide a stable grip for the user. This handle not only enhances the knife's ergonomics, allowing for comfortable use, but also contributes to the overall balance and control of the knife during cutting tasks.",
+      "parts": [
+        {
+          "id": 4,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 5,
+          "name": "bolster",
+          "text": "Bolster"
+        },
+        {
+          "id": 6,
+          "name": "guard",
+          "text": "Guard"
+        },
+        {
+          "id": 7,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 7,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Finally, add the other_leaf to the opposite side of the blade, mirroring the first leaf to create a balanced and symmetrical appearance essential for both aesthetic appeal and functional stability. This addition enhances the overall design of the object, ensuring that it maintains structural integrity during use while also providing a cohesive look that ties all the components together.",
+      "parts": [
+        {
+          "id": 4,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 5,
+          "name": "bolster",
+          "text": "Bolster"
+        },
+        {
+          "id": 6,
+          "name": "guard",
+          "text": "Guard"
+        },
+        {
+          "id": 7,
+          "name": "handle",
+          "text": "Handle"
+        },
+        {
+          "id": 9,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 9,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        }
+      ]
+    }
+  }
+}

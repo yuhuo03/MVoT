@@ -1,0 +1,107 @@
+{
+  "model_id": "395",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, create the blade, which will form the sharp edge and defining feature of the knife, positioned at the front to allow for precision cutting. This blade is essential as it provides the primary functionality of the knife, serving as the tool that interacts directly with the material being cut.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the bolster at the base of the blade, ensuring it sits flush against the blade's tang and provides a smooth transition to the handle. This component is crucial as it enhances the structural integrity of the knife by reinforcing the connection between the blade and handle, while also offering a comfortable grip for the user and preventing hand slippage during use.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 6,
+          "name": "bolster",
+          "text": "Bolster"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 6,
+          "name": "bolster",
+          "text": "Bolster"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, attach the handle to the bolster, positioning it directly beneath the blade to create a comfortable grip for the user. This addition is crucial as it not only allows for effective control of the knife but also balances the overall weight, enhancing both functionality and usability.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 6,
+          "name": "bolster",
+          "text": "Bolster"
+        },
+        {
+          "id": 4,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 4,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Finally, add the other_leaf to the opposite side of the blade, ensuring it mirrors the first leaf, which enhances the overall aesthetic and functionality of the knife by providing balance and symmetry. This addition not only completes the design but also reinforces the structural integrity of the blade, making it more robust for cutting tasks.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 6,
+          "name": "bolster",
+          "text": "Bolster"
+        },
+        {
+          "id": 4,
+          "name": "handle",
+          "text": "Handle"
+        },
+        {
+          "id": 8,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 8,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "step": 5,
+  "parts": [
+    {
+      "id": 18,
+      "name": "switch",
+      "text": "Switch"
+    },
+    {
+      "id": 19,
+      "name": "switch",
+      "text": "Switch"
+    },
+    {
+      "id": 31,
+      "name": "surface_base",
+      "text": "Surface Base"
+    },
+    {
+      "id": 32,
+      "name": "vertical_support",
+      "text": "Vertical Support"
+    },
+    {
+      "id": 29,
+      "name": "surface_base",
+      "text": "Surface Base"
+    }
+  ]
+}

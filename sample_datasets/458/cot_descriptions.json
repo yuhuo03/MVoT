@@ -1,0 +1,893 @@
+{
+  "model_id": "458",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, add the Back Soft Surface, which will serve as the foundational layer of the object, providing a comfortable and supportive area for the user's back. This element is crucial as it establishes the initial framework upon which all subsequent components will be built, ensuring that the overall design prioritizes ergonomic comfort and stability.",
+      "parts": [
+        {
+          "id": 26,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 26,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the Back Support directly above the Back Soft Surface to provide additional structural integrity and stability to the overall object. This support is crucial as it reinforces the back area, ensuring that it can withstand weight and pressure while maintaining the comfort provided by the soft surface beneath.",
+      "parts": [
+        {
+          "id": 26,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 18,
+          "name": "back_support",
+          "text": "Back Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 18,
+          "name": "back_support",
+          "text": "Back Support"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, add the Back Support to reinforce the structure and ensure stability for the entire object, positioning it seamlessly against the Back Soft Surface. This connection is essential as it provides the necessary support to maintain the integrity of the back area, allowing the object to withstand pressure and usage without compromising its shape.",
+      "parts": [
+        {
+          "id": 26,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 18,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 19,
+          "name": "back_support",
+          "text": "Back Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 19,
+          "name": "back_support",
+          "text": "Back Support"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Then, add the Back Connector, positioning it centrally between the two Back Supports to provide a sturdy link that enhances the overall stability of the structure. This connector is crucial as it not only reinforces the alignment of the Back Support components but also helps to distribute weight evenly, ensuring the integrity of the back assembly as further elements are introduced in subsequent steps.",
+      "parts": [
+        {
+          "id": 26,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 18,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 19,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 20,
+          "name": "back_connector",
+          "text": "Back Connector"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 20,
+          "name": "back_connector",
+          "text": "Back Connector"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Then, add the second Back Connector to the opposite side of the existing Back Connector, ensuring a balanced and stable framework for the overall structure. This addition is crucial as it reinforces the connection between the back supports, providing additional strength and ensuring that the soft surface remains securely in place during use.",
+      "parts": [
+        {
+          "id": 26,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 18,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 19,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 20,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 21,
+          "name": "back_connector",
+          "text": "Back Connector"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 21,
+          "name": "back_connector",
+          "text": "Back Connector"
+        }
+      ]
+    },
+    "6": {
+      "step": 6,
+      "description": "Then, add the Arm Vertical Bar, positioning it vertically on each side of the back structure to provide essential lateral stability and support for the overall framework. This addition connects seamlessly with the Back Support and Back Connectors, reinforcing the integrity of the construction and preparing it for subsequent components that will rely on this structural foundation.",
+      "parts": [
+        {
+          "id": 26,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 18,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 19,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 20,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 21,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 13,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 13,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ]
+    },
+    "7": {
+      "step": 7,
+      "description": "Then, add the second Arm Vertical Bar parallel to the first one, ensuring it aligns perfectly with the existing vertical structure to provide additional support and stability for the overall frame. This dual vertical configuration enhances the strength of the arm section, allowing it to bear weight effectively while maintaining balance with the previously added back components.",
+      "parts": [
+        {
+          "id": 26,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 18,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 19,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 20,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 21,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 13,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 14,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 14,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ]
+    },
+    "8": {
+      "step": 8,
+      "description": "Then, add the Arm Connector to bridge the two Arm Vertical Bars, providing essential lateral support and stability for the structure. This connection is crucial as it reinforces the arms, allowing them to maintain their position and effectively distribute the load from the back, ensuring overall rigidity and functionality in the design.",
+      "parts": [
+        {
+          "id": 26,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 18,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 19,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 20,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 21,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 13,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 14,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 15,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 15,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        }
+      ]
+    },
+    "9": {
+      "step": 9,
+      "description": "Continue by reinforcing the overall structure by adding the second Arm Connector on the opposite side of the first one, which will create a balanced linkage between the two Arm Vertical Bars. This addition is crucial as it ensures stability and support for the arms, allowing them to function cohesively with the back structure while maintaining the integrity of the object as a whole.",
+      "parts": [
+        {
+          "id": 26,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 18,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 19,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 20,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 21,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 13,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 14,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 15,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 16,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 16,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        }
+      ]
+    },
+    "10": {
+      "step": 10,
+      "description": "Now, add the Armrest Soft Surface to the top of the Arm Vertical Bars, providing a comfortable resting area for the user's arms. This addition enhances the overall functionality of the object by ensuring support and comfort, while also connecting seamlessly with the existing Arm Vertical Bars to create a cohesive structure that promotes stability.",
+      "parts": [
+        {
+          "id": 26,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 18,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 19,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 20,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 21,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 13,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 14,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 15,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 16,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 25,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 25,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        }
+      ]
+    },
+    "11": {
+      "step": 11,
+      "description": "Then, add another Arm Vertical Bar to the opposite side of the existing arm vertical bars, ensuring symmetrical support for the structure. This addition is crucial as it reinforces the arm section, providing stability and balance, while also allowing for a consistent design that complements the previously installed arm components.",
+      "parts": [
+        {
+          "id": 26,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 18,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 19,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 20,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 21,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 13,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 14,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 15,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 16,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 25,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 8,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 8,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ]
+    },
+    "12": {
+      "step": 12,
+      "description": "Then, add another Arm Vertical Bar to the opposite side of the existing arm structure, ensuring that it mirrors the first bar for symmetry and stability. This addition is crucial as it reinforces the armrest framework, providing necessary support for the armrest soft surface and enhancing the overall strength of the arm assembly.",
+      "parts": [
+        {
+          "id": 26,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 18,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 19,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 20,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 21,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 13,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 14,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 15,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 16,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 25,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 8,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 9,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 9,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        }
+      ]
+    },
+    "13": {
+      "step": 13,
+      "description": "Then, add the second Arm Connector parallel to the first one, ensuring it aligns with the existing Arm Vertical Bars to provide a stable and secure linkage between the armrest and the vertical structure. This connection is crucial as it reinforces the overall stability of the armrest while distributing weight evenly, enhancing the functional integrity of the seating object.",
+      "parts": [
+        {
+          "id": 26,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 18,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 19,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 20,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 21,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 13,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 14,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 15,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 16,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 25,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 8,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 9,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 10,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 10,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        }
+      ]
+    },
+    "14": {
+      "step": 14,
+      "description": "Then, add the final Arm Connector at the junction where the last Arm Vertical Bar meets the armrest structure; this connector is crucial for providing additional stability and ensuring that the armrest maintains its position securely. This connection reinforces the overall integrity of the armrest assembly, allowing it to withstand weight and use, while seamlessly integrating with the previously installed arm components.",
+      "parts": [
+        {
+          "id": 26,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 18,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 19,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 20,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 21,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 13,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 14,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 15,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 16,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 25,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 8,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 9,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 10,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 11,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 11,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        }
+      ]
+    },
+    "15": {
+      "step": 15,
+      "description": "Then, add the armrest soft surface, positioning it atop the arm vertical bars and secured by the arm connectors, to provide a comfortable resting area for the user's arms. This addition enhances the overall functionality of the object by ensuring ergonomic support, while also tying together the vertical structure of the arms with a cohesive, padded element that contributes to the aesthetic appeal.",
+      "parts": [
+        {
+          "id": 26,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 18,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 19,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 20,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 21,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 13,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 14,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 15,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 16,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 25,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 8,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 9,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 10,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 11,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 24,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 24,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        }
+      ]
+    },
+    "16": {
+      "step": 16,
+      "description": "Finally, add the Seat Soft Surface to the top of the seat structure, ensuring it aligns perfectly with the existing arm supports and back support to provide a cohesive and comfortable seating area. This soft surface not only enhances the aesthetic appeal of the object but also ensures user comfort, completing the overall design by unifying all components into a functional and inviting seat.",
+      "parts": [
+        {
+          "id": 26,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 18,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 19,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 20,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 21,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 13,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 14,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 15,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 16,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 25,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 8,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 9,
+          "name": "arm_vertical_bar",
+          "text": "Arm Vertical Bar"
+        },
+        {
+          "id": 10,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 11,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 24,
+          "name": "armrest_soft_surface",
+          "text": "Armrest Soft Surface"
+        },
+        {
+          "id": 23,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 23,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ]
+    }
+  }
+}

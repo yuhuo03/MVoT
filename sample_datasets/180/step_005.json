@@ -1,0 +1,30 @@
+{
+  "step": 5,
+  "parts": [
+    {
+      "id": 31,
+      "name": "arm_vertical_bar",
+      "text": "Arm Vertical Bar"
+    },
+    {
+      "id": 32,
+      "name": "arm_vertical_bar",
+      "text": "Arm Vertical Bar"
+    },
+    {
+      "id": 39,
+      "name": "arm_horizontal_bar",
+      "text": "Arm Horizontal Bar"
+    },
+    {
+      "id": 44,
+      "name": "seat_soft_surface",
+      "text": "Seat Soft Surface"
+    },
+    {
+      "id": 42,
+      "name": "seat_frame_vertical_bar",
+      "text": "Seat Frame Vertical Bar"
+    }
+  ]
+}

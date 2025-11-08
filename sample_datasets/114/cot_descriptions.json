@@ -1,0 +1,188 @@
+{
+  "model_id": "114",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, create the blade to establish the sharp, dominant feature of the object, which will serve as the primary cutting edge. This blade will be positioned at the front of the object, setting the foundation for its overall functionality and design.",
+      "parts": [
+        {
+          "id": 7,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 7,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the handle to the base of the blade, ensuring it is securely attached for optimal grip and control during use. This addition is crucial as it provides a comfortable and safe way for the user to hold the knife, balancing the weight of the blade and allowing for precise cutting movements.",
+      "parts": [
+        {
+          "id": 7,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 8,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 8,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, add the fingerhole to the handle, positioned near the top where the user’s index finger naturally rests for optimal control. This addition enhances the grip and maneuverability of the object, allowing for greater precision and comfort during use, while also reinforcing the connection between the handle and the user’s hand.",
+      "parts": [
+        {
+          "id": 7,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 8,
+          "name": "handle",
+          "text": "Handle"
+        },
+        {
+          "id": 9,
+          "name": "fingerhole",
+          "text": "Fingerhole"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 9,
+          "name": "fingerhole",
+          "text": "Fingerhole"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Continue by reinforcing the fingerhole in the handle, ensuring it is ergonomically shaped for comfort and ease of use. This addition is crucial as it allows the user to maintain a secure grip on the knife while providing added control during cutting tasks, enhancing the overall functionality of the tool.",
+      "parts": [
+        {
+          "id": 7,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 8,
+          "name": "handle",
+          "text": "Handle"
+        },
+        {
+          "id": 9,
+          "name": "fingerhole",
+          "text": "Fingerhole"
+        },
+        {
+          "id": 10,
+          "name": "fingerhole",
+          "text": "Fingerhole"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 10,
+          "name": "fingerhole",
+          "text": "Fingerhole"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Then, add the second fingerhole on the opposite side of the handle to ensure that the object can accommodate users with different grip preferences, enhancing versatility and comfort during use. This additional fingerhole mirrors the first, providing a symmetrical design that not only improves functionality but also contributes to the overall aesthetic balance of the object.",
+      "parts": [
+        {
+          "id": 7,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 8,
+          "name": "handle",
+          "text": "Handle"
+        },
+        {
+          "id": 9,
+          "name": "fingerhole",
+          "text": "Fingerhole"
+        },
+        {
+          "id": 10,
+          "name": "fingerhole",
+          "text": "Fingerhole"
+        },
+        {
+          "id": 11,
+          "name": "fingerhole",
+          "text": "Fingerhole"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 11,
+          "name": "fingerhole",
+          "text": "Fingerhole"
+        }
+      ]
+    },
+    "6": {
+      "step": 6,
+      "description": "Finally, add the last fingerhole to the handle, ensuring it is positioned symmetrically alongside the previously added fingerholes for optimal grip and control. This additional fingerhole enhances user comfort and stability during use, completing the ergonomic design of the handle and ensuring the tool is fully functional and balanced.",
+      "parts": [
+        {
+          "id": 7,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 8,
+          "name": "handle",
+          "text": "Handle"
+        },
+        {
+          "id": 9,
+          "name": "fingerhole",
+          "text": "Fingerhole"
+        },
+        {
+          "id": 10,
+          "name": "fingerhole",
+          "text": "Fingerhole"
+        },
+        {
+          "id": 11,
+          "name": "fingerhole",
+          "text": "Fingerhole"
+        },
+        {
+          "id": 12,
+          "name": "fingerhole",
+          "text": "Fingerhole"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 12,
+          "name": "fingerhole",
+          "text": "Fingerhole"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,551 @@
+{
+  "model_id": "170",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, add the switch to the designated control panel area of the object, ensuring it is easily accessible for operation. This switch will serve as the primary mechanism for activating and deactivating the device, establishing the foundational interface for user interaction.",
+      "parts": [
+        {
+          "id": 2,
+          "name": "switch",
+          "text": "Switch"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 2,
+          "name": "switch",
+          "text": "Switch"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the surface base directly beneath the switch to provide a stable foundation for the entire assembly; this component is crucial as it supports the switch and ensures proper alignment and functionality. The surface base also helps distribute any forces applied to the switch, preventing damage and enhancing overall durability of the object.",
+      "parts": [
+        {
+          "id": 2,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 9,
+          "name": "surface_base",
+          "text": "Surface Base"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 9,
+          "name": "surface_base",
+          "text": "Surface Base"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, add the casing around the switch, positioning it directly above the surface base to provide a protective enclosure that secures the switch in place. This casing not only ensures that the switch remains functional and operable but also enhances the overall aesthetic of the object while preventing accidental activation.",
+      "parts": [
+        {
+          "id": 2,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 9,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 10,
+          "name": "surface_base",
+          "text": "Surface Base"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 10,
+          "name": "surface_base",
+          "text": "Surface Base"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Then, add the Vertical Support positioned centrally between the two Surface Bases to provide essential stability and structural integrity to the overall object. This support will help distribute weight evenly and serve as a critical anchor point for future components, ensuring that the assembly remains robust as additional parts are integrated.",
+      "parts": [
+        {
+          "id": 2,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 9,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 10,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 11,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 11,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Then, add another Vertical Support next to the existing one to enhance the overall stability of the structure, ensuring that it can adequately support the weight of the components above it. This new support will connect seamlessly with the previously added vertical support, reinforcing the framework and improving the structural integrity of the entire assembly.",
+      "parts": [
+        {
+          "id": 2,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 9,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 10,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 11,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 12,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 12,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        }
+      ]
+    },
+    "6": {
+      "step": 6,
+      "description": "Then, add the connector between the two vertical supports to provide structural integrity and stability to the overall construction. This connector serves as a crucial link that reinforces the connection between the supports, ensuring that they maintain their alignment and can effectively bear any loads placed on the structure.",
+      "parts": [
+        {
+          "id": 2,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 9,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 10,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 11,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 12,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 13,
+          "name": "connector",
+          "text": "Connector"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 13,
+          "name": "connector",
+          "text": "Connector"
+        }
+      ]
+    },
+    "7": {
+      "step": 7,
+      "description": "Then, add the Horizontal Support across the top of the Vertical Supports to provide additional stability and rigidity to the structure. This support will connect the two vertical elements, reinforcing the overall integrity of the assembly while also serving as a mounting point for any additional components that may be added later.",
+      "parts": [
+        {
+          "id": 2,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 9,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 10,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 11,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 12,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 13,
+          "name": "connector",
+          "text": "Connector"
+        },
+        {
+          "id": 15,
+          "name": "horizontal_support",
+          "text": "Horizontal Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 15,
+          "name": "horizontal_support",
+          "text": "Horizontal Support"
+        }
+      ]
+    },
+    "8": {
+      "step": 8,
+      "description": "Then, add the tube vertically between the two vertical supports to create a central conduit for wiring and components, ensuring that it is aligned with the connector for efficient internal routing. This addition not only enhances the structural integrity of the assembly but also provides a designated pathway for the electrical connections necessary for the switch to function properly.",
+      "parts": [
+        {
+          "id": 2,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 9,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 10,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 11,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 12,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 13,
+          "name": "connector",
+          "text": "Connector"
+        },
+        {
+          "id": 15,
+          "name": "horizontal_support",
+          "text": "Horizontal Support"
+        },
+        {
+          "id": 5,
+          "name": "tube",
+          "text": "Tube"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 5,
+          "name": "tube",
+          "text": "Tube"
+        }
+      ]
+    },
+    "9": {
+      "step": 9,
+      "description": "Then, attach the head to the top of the vertical supports, ensuring it is securely fastened to provide the necessary functionality and aesthetic appeal of the object. This head serves as the operational interface for the switch, allowing for user interaction while also enhancing the structural integrity by capping the vertical supports.",
+      "parts": [
+        {
+          "id": 2,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 9,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 10,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 11,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 12,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 13,
+          "name": "connector",
+          "text": "Connector"
+        },
+        {
+          "id": 15,
+          "name": "horizontal_support",
+          "text": "Horizontal Support"
+        },
+        {
+          "id": 5,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 6,
+          "name": "head",
+          "text": "Head"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 6,
+          "name": "head",
+          "text": "Head"
+        }
+      ]
+    },
+    "10": {
+      "step": 10,
+      "description": "Then, add the mouth just below the head to create an opening that allows for interaction or movement, enhancing the functionality of the object. This new component connects directly to the existing tube, ensuring a seamless integration that supports the design while contributing to the overall purpose of the structure.",
+      "parts": [
+        {
+          "id": 2,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 9,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 10,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 11,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 12,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 13,
+          "name": "connector",
+          "text": "Connector"
+        },
+        {
+          "id": 15,
+          "name": "horizontal_support",
+          "text": "Horizontal Support"
+        },
+        {
+          "id": 5,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 6,
+          "name": "head",
+          "text": "Head"
+        },
+        {
+          "id": 7,
+          "name": "mouth",
+          "text": "Mouth"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 7,
+          "name": "mouth",
+          "text": "Mouth"
+        }
+      ]
+    },
+    "11": {
+      "step": 11,
+      "description": "Then, add another Surface Base positioned parallel to the existing base components to enhance stability and support for the overall structure. This additional base ensures that weight is distributed evenly across the object, reinforcing the connection between the vertical supports and the horizontal elements, thereby increasing the durability and functionality of the design.",
+      "parts": [
+        {
+          "id": 2,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 9,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 10,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 11,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 12,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 13,
+          "name": "connector",
+          "text": "Connector"
+        },
+        {
+          "id": 15,
+          "name": "horizontal_support",
+          "text": "Horizontal Support"
+        },
+        {
+          "id": 5,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 6,
+          "name": "head",
+          "text": "Head"
+        },
+        {
+          "id": 7,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 17,
+          "name": "surface_base",
+          "text": "Surface Base"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 17,
+          "name": "surface_base",
+          "text": "Surface Base"
+        }
+      ]
+    },
+    "12": {
+      "step": 12,
+      "description": "Finally, add the switch to the designated position on the surface base, ensuring it is easily accessible for operation. This final component not only completes the assembly by providing a means to control the entire object but also reinforces the connection between the surface base and the vertical supports, integrating all elements into a cohesive and functional unit.",
+      "parts": [
+        {
+          "id": 2,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 9,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 10,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 11,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 12,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 13,
+          "name": "connector",
+          "text": "Connector"
+        },
+        {
+          "id": 15,
+          "name": "horizontal_support",
+          "text": "Horizontal Support"
+        },
+        {
+          "id": 5,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 6,
+          "name": "head",
+          "text": "Head"
+        },
+        {
+          "id": 7,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 17,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 18,
+          "name": "switch",
+          "text": "Switch"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 18,
+          "name": "switch",
+          "text": "Switch"
+        }
+      ]
+    }
+  }
+}

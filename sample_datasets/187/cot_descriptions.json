@@ -1,0 +1,800 @@
+{
+  "model_id": "187",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, add the Back Surface Horizontal Bar to establish a foundational support structure at the rear of the object, ensuring stability and alignment for the subsequent components. This horizontal bar will serve as a crucial anchoring point, connecting with the vertical elements that will be added later, thereby enhancing the overall rigidity and integrity of the design.",
+      "parts": [
+        {
+          "id": 21,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 21,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, attach the vertical support beams to the ends of the Back Surface Horizontal Bar, ensuring they are aligned perpendicularly to provide stability and structure. These beams will serve as the foundational supports for the overall object, connecting the horizontal bar to subsequent components and reinforcing the integrity of the framework.",
+      "parts": [
+        {
+          "id": 21,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 22,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 22,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, add another Back Surface Horizontal Bar to the structure, positioning it parallel to the existing bars to create a more robust framework. This additional bar will enhance the overall stability and strength of the back surface, ensuring that the structure can better support the components that will be attached later.",
+      "parts": [
+        {
+          "id": 21,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 22,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 23,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 23,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Then, add another Back Surface Horizontal Bar directly above the previous bars to enhance the structural integrity of the back surface. This additional bar will provide extra support and stability, ensuring that the framework can withstand any applied forces while maintaining the overall alignment of the existing bars.",
+      "parts": [
+        {
+          "id": 21,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 22,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 23,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 24,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 24,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Then, add another Back Surface Horizontal Bar at the same height and position as the existing bars to reinforce the structure, ensuring uniform support across the back surface. This additional bar will enhance stability and strength, creating a solid framework that connects seamlessly with the previously installed bars, thus contributing to the overall integrity of the object.",
+      "parts": [
+        {
+          "id": 21,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 22,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 23,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 24,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 25,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 25,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        }
+      ]
+    },
+    "6": {
+      "step": 6,
+      "description": "Then, add another Back Surface Horizontal Bar to the existing structure, positioning it parallel to the previously installed bars at a consistent height. This addition will enhance the overall stability and support of the back surface, ensuring that the framework is robust enough to bear additional components in the subsequent steps.",
+      "parts": [
+        {
+          "id": 21,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 22,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 23,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 24,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 25,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 26,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 26,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        }
+      ]
+    },
+    "7": {
+      "step": 7,
+      "description": "Then, add another Back Surface Horizontal Bar to the structure, positioning it parallel to the existing bars and evenly spaced to maintain structural integrity. This additional bar enhances the overall rigidity of the back surface, ensuring that the framework can support further elements that will be added in subsequent steps.",
+      "parts": [
+        {
+          "id": 21,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 22,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 23,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 24,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 25,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 26,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 27,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 27,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        }
+      ]
+    },
+    "8": {
+      "step": 8,
+      "description": "Then, add another Back Surface Horizontal Bar to the existing structure, positioning it parallel to the previously added bars to maintain uniformity and stability. This additional bar reinforces the overall framework, ensuring that the back surface remains rigid and capable of supporting any loads or stresses that may be applied during use.",
+      "parts": [
+        {
+          "id": 21,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 22,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 23,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 24,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 25,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 26,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 27,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 28,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 28,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        }
+      ]
+    },
+    "9": {
+      "step": 9,
+      "description": "Then, add the Back Frame Vertical Bar alongside the existing series of Back Surface Horizontal Bars to provide essential vertical support and enhance the overall structural integrity of the object. This vertical bar will connect directly at the ends of the horizontal bars, creating a robust framework that reinforces the shape and allows for further components to be attached securely in the subsequent steps.",
+      "parts": [
+        {
+          "id": 21,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 22,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 23,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 24,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 25,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 26,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 27,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 28,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 19,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 19,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        }
+      ]
+    },
+    "10": {
+      "step": 10,
+      "description": "Then, add another Back Frame Vertical Bar to reinforce the structure on the opposite side of the existing vertical bar, ensuring stability and balance for the entire assembly. This new vertical bar will connect seamlessly with the previously added horizontal bars, creating a robust framework that supports the overall design and helps maintain the object's intended shape.",
+      "parts": [
+        {
+          "id": 21,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 22,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 23,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 24,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 25,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 26,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 27,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 28,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 19,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 20,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 20,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        }
+      ]
+    },
+    "11": {
+      "step": 11,
+      "description": "Now, add the Seat Hard Surface, positioning it securely atop the Back Surface Horizontal Bars to create the foundational area for seating. This addition is crucial as it provides the necessary support and comfort for users, effectively linking the horizontal bars and enhancing the overall structural integrity of the object.",
+      "parts": [
+        {
+          "id": 21,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 22,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 23,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 24,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 25,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 26,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 27,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 28,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 19,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 20,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 29,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 29,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        }
+      ]
+    },
+    "12": {
+      "step": 12,
+      "description": "Then, add the leg to the front left corner of the seat hard surface to provide essential support and stability for the overall structure. This leg connects directly to the seat and aligns with the back frame vertical bars, ensuring a strong foundation that balances the weight of the object while allowing for functional use.",
+      "parts": [
+        {
+          "id": 21,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 22,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 23,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 24,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 25,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 26,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 27,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 28,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 19,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 20,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 29,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 5,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 5,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "13": {
+      "step": 13,
+      "description": "Now, add the second leg parallel to the first leg, ensuring it is positioned at the opposite end of the seat hard surface to provide stability and balance to the overall structure. This leg will support the weight of the seat and contribute to the strength of the chair, ensuring that it can withstand regular use while maintaining its form and functionality.",
+      "parts": [
+        {
+          "id": 21,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 22,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 23,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 24,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 25,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 26,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 27,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 28,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 19,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 20,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 29,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 5,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 6,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 6,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "14": {
+      "step": 14,
+      "description": "Then, add the second leg adjacent to the first leg, ensuring that it mirrors the placement for balance and stability. This addition is crucial as it not only supports the structure of the seat but also ensures that the overall object maintains its integrity while providing a solid foundation for use.",
+      "parts": [
+        {
+          "id": 21,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 22,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 23,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 24,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 25,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 26,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 27,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 28,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 19,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 20,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 29,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 5,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 6,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "15": {
+      "step": 15,
+      "description": "Finally, add the last leg to the structure, positioning it symmetrically opposite the previously added legs to ensure stability and balance for the overall object. This final leg not only reinforces the support of the seat hard surface but also completes the framework, allowing for a sturdy base that distributes weight evenly across all four legs.",
+      "parts": [
+        {
+          "id": 21,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 22,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 23,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 24,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 25,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 26,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 27,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 28,
+          "name": "back_surface_horizontal_bar",
+          "text": "Back Surface Horizontal Bar"
+        },
+        {
+          "id": 19,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 20,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 29,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 5,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 6,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    }
+  }
+}

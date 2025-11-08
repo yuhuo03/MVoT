@@ -1,0 +1,236 @@
+{
+  "model_id": "470",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, add the Back Soft Surface to the rear section of the object, ensuring it is aligned with the intended shape and proportions. This surface serves a crucial role by providing comfort and support, acting as a cushion that enhances the user experience when interacting with the object.",
+      "parts": [
+        {
+          "id": 16,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 16,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the sofa-style arm to the sides of the back soft surface, positioning it to provide a comfortable resting place for the user’s arms while also enhancing the overall aesthetic of the piece. This arm not only adds structural stability by connecting securely to the back soft surface but also contributes to the inviting, relaxed appearance that defines the sofa's character.",
+      "parts": [
+        {
+          "id": 16,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 14,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 14,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, attach the second Sofa-style Arm to the opposite side of the Back Soft Surface, ensuring it mirrors the first arm for a balanced and symmetrical design. This arm provides additional support and comfort, completing the seating area and enhancing the overall aesthetic appeal of the object.",
+      "parts": [
+        {
+          "id": 16,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 14,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 13,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 13,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Now, add the Seat Soft Surface in the central area between the two Sofa-style Arms to create a comfortable seating area for users. This addition is crucial as it not only enhances the overall aesthetic of the object but also provides the necessary support and cushioning for sitting, completing the main seating component of the sofa.",
+      "parts": [
+        {
+          "id": 16,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 14,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 13,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Then, add the Seat Support beneath the Seat Soft Surface to provide essential structural integrity and stability, ensuring that the seating area can bear weight without sagging. This component connects directly to the underside of the seat, reinforcing the overall form and enhancing comfort by distributing pressure evenly across the seat.",
+      "parts": [
+        {
+          "id": 16,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 14,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 13,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 17,
+          "name": "seat_support",
+          "text": "Seat Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 17,
+          "name": "seat_support",
+          "text": "Seat Support"
+        }
+      ]
+    },
+    "6": {
+      "step": 6,
+      "description": "Then, add the leg to each corner of the sofa to provide essential stability and support for the entire structure. This addition not only elevates the sofa off the ground, enhancing its aesthetic appeal, but also ensures that the back soft surface, sofa-style arms, and seat soft surface are securely held in place, allowing for safe and comfortable use.",
+      "parts": [
+        {
+          "id": 16,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 14,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 13,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 17,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "7": {
+      "step": 7,
+      "description": "Finally, add the final leg to the opposite corner of the sofa, ensuring it mirrors the previously installed leg for symmetrical support and stability. This leg not only reinforces the entire structure by providing balance, but it also completes the aesthetic design of the sofa, allowing it to stand firmly on the ground while supporting the soft surfaces of the seat and back.",
+      "parts": [
+        {
+          "id": 16,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 14,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 13,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 17,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    }
+  }
+}

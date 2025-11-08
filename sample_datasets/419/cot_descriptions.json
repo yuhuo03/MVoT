@@ -1,0 +1,46 @@
+{
+  "model_id": "419",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, create the blade by shaping a long, narrow piece of material, as this will form the sharp cutting edge of the knife, essential for its primary function. The blade will extend outward from the handle's base, establishing the overall design and purpose of the knife as a tool for cutting.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Finally, add the handle to the base of the blade, ensuring a secure grip that allows the user to wield the object comfortably and safely. This connection not only completes the overall shape but also enhances the functionality by providing stability and control during use, making the object both practical and ergonomic.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 4,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 4,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ]
+    }
+  }
+}

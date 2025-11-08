@@ -1,0 +1,70 @@
+{
+  "step": 13,
+  "parts": [
+    {
+      "id": 23,
+      "name": "back_soft_surface",
+      "text": "Back Soft Surface"
+    },
+    {
+      "id": 22,
+      "name": "back_holistic_frame",
+      "text": "Back Holistic Frame"
+    },
+    {
+      "id": 17,
+      "name": "arm_vertical_bar",
+      "text": "Arm Vertical Bar"
+    },
+    {
+      "id": 18,
+      "name": "arm_horizontal_bar",
+      "text": "Arm Horizontal Bar"
+    },
+    {
+      "id": 19,
+      "name": "arm_sofa_style",
+      "text": "Sofa-style Arm"
+    },
+    {
+      "id": 11,
+      "name": "seat_soft_surface",
+      "text": "Seat Soft Surface"
+    },
+    {
+      "id": 16,
+      "name": "seat_support",
+      "text": "Seat Support"
+    },
+    {
+      "id": 25,
+      "name": "seat_holistic_frame",
+      "text": "Seat Holistic Frame"
+    },
+    {
+      "id": 26,
+      "name": "seat_frame_horizontal_bar",
+      "text": "Seat Frame Horizontal Bar"
+    },
+    {
+      "id": 6,
+      "name": "leg",
+      "text": "Leg"
+    },
+    {
+      "id": 7,
+      "name": "leg",
+      "text": "Leg"
+    },
+    {
+      "id": 8,
+      "name": "leg",
+      "text": "Leg"
+    },
+    {
+      "id": 9,
+      "name": "leg",
+      "text": "Leg"
+    }
+  ]
+}

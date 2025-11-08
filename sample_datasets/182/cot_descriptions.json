@@ -1,0 +1,236 @@
+{
+  "model_id": "182",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, add the back hard surface, positioning it as the foundational panel at the rear of the object to provide structural integrity and support for the overall design. This component is crucial as it will serve as a stabilizing anchor for subsequent elements, ensuring they are securely attached and function cohesively.",
+      "parts": [
+        {
+          "id": 12,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 12,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the Seat Soft Surface, positioning it directly in front of the Back Hard Surface to create a comfortable seating area. This soft surface is essential for providing cushioning and support, enhancing user comfort while maintaining a cohesive connection between the back and seat components.",
+      "parts": [
+        {
+          "id": 12,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 13,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 13,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, add the Seat Support beneath the Seat Soft Surface to provide essential structural integrity and stability, ensuring that the seat can withstand weight without sagging. This support connects directly to the back of the hard surface, reinforcing the overall frame and allowing for a comfortable seating experience.",
+      "parts": [
+        {
+          "id": 12,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 13,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 17,
+          "name": "seat_support",
+          "text": "Seat Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 17,
+          "name": "seat_support",
+          "text": "Seat Support"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Then, add the leg to the underside of the seat support, positioning it at each corner to provide stability and support for the entire structure. This leg not only bears the weight of the seat and back but also ensures that the object maintains its balance while in use, effectively connecting the seat support to the ground.",
+      "parts": [
+        {
+          "id": 12,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 13,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 17,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 5,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 5,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Continue by adding the second leg directly opposite the first leg, ensuring that it mirrors the existing structure for balance and stability. This addition not only supports the overall framework of the object but also reinforces its load-bearing capacity, allowing for a sturdy and functional design that can accommodate weight effectively.",
+      "parts": [
+        {
+          "id": 12,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 13,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 17,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 5,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 6,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 6,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "6": {
+      "step": 6,
+      "description": "Then, add another leg opposite the previously installed leg to ensure balance and stability for the overall structure. This new leg will support the weight of the seat and back hard surface, effectively distributing the load and enhancing the durability of the object.",
+      "parts": [
+        {
+          "id": 12,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 13,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 17,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 5,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 6,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "7": {
+      "step": 7,
+      "description": "Finally, add the fourth leg to the base of the seat, positioning it symmetrically opposite to the third leg to ensure balance and stability for the entire structure. This leg is essential for supporting the weight of the chair and maintaining uniformity, enhancing both functionality and aesthetic appeal as it completes the foundational framework of the object.",
+      "parts": [
+        {
+          "id": 12,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 13,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 17,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 5,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 6,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    }
+  }
+}

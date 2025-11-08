@@ -1,0 +1,800 @@
+{
+  "model_id": "482",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, add the back hard surface to establish a solid foundation for the object, as it will serve as the primary structural element that supports additional components. This back hard surface is positioned at the rear of the design, providing stability and a point of attachment for subsequent parts, ensuring the overall integrity of the construction as it progresses.",
+      "parts": [
+        {
+          "id": 62,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 62,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the Back Frame Vertical Bar, positioning it vertically along the left edge of the Back Hard Surface to provide structural integrity and support for the overall frame. This bar serves as a crucial element to anchor additional components and helps distribute weight, ensuring the stability of the entire structure as it progresses.",
+      "parts": [
+        {
+          "id": 62,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 60,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 60,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, add another Back Frame Vertical Bar parallel to the first one, positioned on the opposite side, to establish symmetrical support for the back structure. This addition is crucial as it enhances the overall stability of the frame, ensuring that the back hard surface is securely braced and can effectively bear any loads or stresses applied to the object.",
+      "parts": [
+        {
+          "id": 62,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 60,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 61,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 61,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Then, add the Seat Hard Surface to the structure, positioning it horizontally above the Back Hard Surface and supported by the existing Back Frame Vertical Bars. This addition is crucial as it creates a stable seating area, connecting the back support to the overall framework and enhancing the object's functionality as a seating unit.",
+      "parts": [
+        {
+          "id": 62,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 60,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 61,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 57,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 57,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Then, add the Seat Frame Vertical Bar positioned vertically on either side of the Seat Hard Surface to provide essential support and stability for the seat structure. This addition connects seamlessly with the existing components, reinforcing the overall framework and ensuring that the seat can bear weight while maintaining its shape and integrity.",
+      "parts": [
+        {
+          "id": 62,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 60,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 61,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 57,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 55,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 55,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        }
+      ]
+    },
+    "6": {
+      "step": 6,
+      "description": "Then, add another Seat Frame Vertical Bar adjacent to the first one already in place, positioned parallel to it on the opposite side of the seat hard surface. This bar is crucial for providing additional structural support and stability to the seat assembly, ensuring that it can bear weight effectively while maintaining the overall integrity of the chair's design.",
+      "parts": [
+        {
+          "id": 62,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 60,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 61,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 57,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 55,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 56,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 56,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        }
+      ]
+    },
+    "7": {
+      "step": 7,
+      "description": "Then, add the other_leaf to the opposite side of the existing back frame vertical bars, creating a symmetrical appearance that enhances both stability and aesthetic balance in the structure. This addition is crucial as it reinforces the overall integrity of the back support while providing a cohesive design that mirrors the previously added components.",
+      "parts": [
+        {
+          "id": 62,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 60,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 61,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 57,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 55,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 56,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 54,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 54,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        }
+      ]
+    },
+    "8": {
+      "step": 8,
+      "description": "Now, incorporate the other_leaf by positioning it symmetrically alongside the existing back frame vertical bars, which enhances the structural integrity of the back support. This addition not only provides a cohesive aesthetic to the overall design but also reinforces the stability of the back hard surface, ensuring it can adequately support weight and maintain durability over time.",
+      "parts": [
+        {
+          "id": 62,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 60,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 61,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 57,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 55,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 56,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 54,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 53,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 53,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        }
+      ]
+    },
+    "9": {
+      "step": 9,
+      "description": "Then, add the other_leaf to the opposite side of the previous leaf, ensuring it mirrors the existing structure to maintain symmetry and balance in the overall design. This addition not only enhances the aesthetic appeal of the object but also provides additional support and stability, reinforcing the connection between the back hard surface and the seat hard surface.",
+      "parts": [
+        {
+          "id": 62,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 60,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 61,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 57,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 55,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 56,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 54,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 53,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 52,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 52,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        }
+      ]
+    },
+    "10": {
+      "step": 10,
+      "description": "Then, add another instance of the other_leaf to the opposite side of the existing leaves, ensuring symmetry and balance in the design. This addition reinforces the overall structure by providing additional support and aesthetic continuity, complementing the already established elements and enhancing the visual appeal of the object.",
+      "parts": [
+        {
+          "id": 62,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 60,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 61,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 57,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 55,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 56,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 54,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 53,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 52,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 51,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 51,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        }
+      ]
+    },
+    "11": {
+      "step": 11,
+      "description": "Then, add the leg to the underside of the seat frame, positioning it at an angle to provide stability and support for the entire structure. This leg is essential as it bears the weight of the seat and connects the upper components, ensuring a sturdy foundation for the object.",
+      "parts": [
+        {
+          "id": 62,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 60,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 61,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 57,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 55,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 56,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 54,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 53,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 52,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 51,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 40,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 40,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "12": {
+      "step": 12,
+      "description": "Then, add the second leg to the opposite side of the seat, ensuring that it mirrors the first leg for balance and stability. This addition is crucial as it supports the entire structure, evenly distributing weight and providing a sturdy foundation for the object, while also maintaining the overall symmetry that enhances its visual appeal.",
+      "parts": [
+        {
+          "id": 62,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 60,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 61,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 57,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 55,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 56,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 54,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 53,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 52,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 51,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 40,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 41,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 41,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "13": {
+      "step": 13,
+      "description": "Then, add another leg on the opposite side of the existing leg to ensure stability and balance for the structure, creating a symmetrical support system. This new leg connects to the seat frame and reinforces the overall integrity of the object, allowing it to bear weight effectively while maintaining an even distribution of pressure across all legs.",
+      "parts": [
+        {
+          "id": 62,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 60,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 61,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 57,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 55,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 56,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 54,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 53,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 52,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 51,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 40,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 41,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 42,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 42,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "14": {
+      "step": 14,
+      "description": "Then, add the final leg to the existing structure, ensuring it is positioned symmetrically alongside the other two legs for optimal stability and balance. This leg not only completes the support framework beneath the seat but also reinforces the overall durability of the object, allowing it to bear weight effectively and maintain its intended functionality.",
+      "parts": [
+        {
+          "id": 62,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 60,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 61,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 57,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 55,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 56,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 54,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 53,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 52,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 51,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 40,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 41,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 42,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 43,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 43,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "15": {
+      "step": 15,
+      "description": "Finally, add the Bar Stretcher between the legs to enhance the structural integrity of the entire object, providing stability and preventing any lateral movement. This connection not only reinforces the framework created by the legs but also complements the overall design by ensuring a solid base for the seat and back components.",
+      "parts": [
+        {
+          "id": 62,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 60,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 61,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 57,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 55,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 56,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 54,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 53,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 52,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 51,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        },
+        {
+          "id": 40,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 41,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 42,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 43,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 44,
+          "name": "bar_stretcher",
+          "text": "Bar Stretcher"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 44,
+          "name": "bar_stretcher",
+          "text": "Bar Stretcher"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "step": 8,
+  "parts": [
+    {
+      "id": 2,
+      "name": "switch",
+      "text": "Switch"
+    },
+    {
+      "id": 3,
+      "name": "switch",
+      "text": "Switch"
+    },
+    {
+      "id": 12,
+      "name": "surface_base",
+      "text": "Surface Base"
+    },
+    {
+      "id": 13,
+      "name": "vertical_support",
+      "text": "Vertical Support"
+    },
+    {
+      "id": 9,
+      "name": "surface_base",
+      "text": "Surface Base"
+    },
+    {
+      "id": 10,
+      "name": "vertical_support",
+      "text": "Vertical Support"
+    },
+    {
+      "id": 7,
+      "name": "tube",
+      "text": "Tube"
+    },
+    {
+      "id": 8,
+      "name": "mouth",
+      "text": "Mouth"
+    }
+  ]
+}

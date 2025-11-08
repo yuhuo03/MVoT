@@ -1,0 +1,60 @@
+{
+  "step": 11,
+  "parts": [
+    {
+      "id": 26,
+      "name": "back_hard_surface",
+      "text": "Back Hard Surface"
+    },
+    {
+      "id": 24,
+      "name": "back_frame_vertical_bar",
+      "text": "Back Frame Vertical Bar"
+    },
+    {
+      "id": 25,
+      "name": "back_frame_vertical_bar",
+      "text": "Back Frame Vertical Bar"
+    },
+    {
+      "id": 31,
+      "name": "seat_hard_surface",
+      "text": "Seat Hard Surface"
+    },
+    {
+      "id": 29,
+      "name": "seat_frame_vertical_bar",
+      "text": "Seat Frame Vertical Bar"
+    },
+    {
+      "id": 30,
+      "name": "seat_frame_vertical_bar",
+      "text": "Seat Frame Vertical Bar"
+    },
+    {
+      "id": 5,
+      "name": "leg",
+      "text": "Leg"
+    },
+    {
+      "id": 6,
+      "name": "leg",
+      "text": "Leg"
+    },
+    {
+      "id": 7,
+      "name": "runner",
+      "text": "Runner"
+    },
+    {
+      "id": 8,
+      "name": "runner",
+      "text": "Runner"
+    },
+    {
+      "id": 9,
+      "name": "runner",
+      "text": "Runner"
+    }
+  ]
+}

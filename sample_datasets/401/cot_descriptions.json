@@ -1,0 +1,46 @@
+{
+  "model_id": "401",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, create the blade by shaping a long, tapered piece of material that will serve as the knife's sharp edge, positioned at the front to define its primary function for cutting. This blade is crucial as it establishes the overall profile of the knife and will later interact with the handle and other components to form a cohesive tool.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Finally, add the handle to the base of the blade, ensuring it is securely attached to create a comfortable grip for the user. This connection not only allows for better control and maneuverability of the knife but also balances the overall structure, making it functional and safe to use.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 4,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 4,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "step": 4,
+  "parts": [
+    {
+      "id": 33,
+      "name": "back_soft_surface",
+      "text": "Back Soft Surface"
+    },
+    {
+      "id": 32,
+      "name": "back_holistic_frame",
+      "text": "Back Holistic Frame"
+    },
+    {
+      "id": 30,
+      "name": "back_connector",
+      "text": "Back Connector"
+    },
+    {
+      "id": 31,
+      "name": "back_connector",
+      "text": "Back Connector"
+    }
+  ]
+}

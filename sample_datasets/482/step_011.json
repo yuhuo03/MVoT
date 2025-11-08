@@ -1,0 +1,60 @@
+{
+  "step": 11,
+  "parts": [
+    {
+      "id": 62,
+      "name": "back_hard_surface",
+      "text": "Back Hard Surface"
+    },
+    {
+      "id": 60,
+      "name": "back_frame_vertical_bar",
+      "text": "Back Frame Vertical Bar"
+    },
+    {
+      "id": 61,
+      "name": "back_frame_vertical_bar",
+      "text": "Back Frame Vertical Bar"
+    },
+    {
+      "id": 57,
+      "name": "seat_hard_surface",
+      "text": "Seat Hard Surface"
+    },
+    {
+      "id": 55,
+      "name": "seat_frame_vertical_bar",
+      "text": "Seat Frame Vertical Bar"
+    },
+    {
+      "id": 56,
+      "name": "seat_frame_vertical_bar",
+      "text": "Seat Frame Vertical Bar"
+    },
+    {
+      "id": 54,
+      "name": "other_leaf",
+      "text": "other_leaf"
+    },
+    {
+      "id": 53,
+      "name": "other_leaf",
+      "text": "other_leaf"
+    },
+    {
+      "id": 52,
+      "name": "other_leaf",
+      "text": "other_leaf"
+    },
+    {
+      "id": 51,
+      "name": "other_leaf",
+      "text": "other_leaf"
+    },
+    {
+      "id": 40,
+      "name": "leg",
+      "text": "Leg"
+    }
+  ]
+}

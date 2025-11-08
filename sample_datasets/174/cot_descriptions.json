@@ -1,0 +1,551 @@
+{
+  "model_id": "174",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, add the back hard surface at the rear of the object to establish a solid foundation, which is crucial for providing structural integrity and support for the entire assembly. This component serves as the backbone of the design, ensuring that subsequent parts can be securely attached and maintain stability throughout the construction process.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 29,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the Back Frame Vertical Bar to the left side of the Back Hard Surface, ensuring it is securely aligned and perpendicular to provide essential structural support. This vertical bar acts as a crucial component in framing the back of the object, reinforcing its stability and setting the stage for additional structural elements that will be added in subsequent steps.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 26,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 26,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, add the second Back Frame Vertical Bar parallel to the first one, ensuring it is securely positioned to maintain structural integrity and support for the overall object. This addition is crucial as it will provide balance and stability, reinforcing the frame's ability to hold the back hard surface firmly in place while allowing for further components to be attached later.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 26,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 27,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 27,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Then, add the Back Frame Horizontal Bar across the top section of the two previously installed Back Frame Vertical Bars to create a sturdy support structure that connects these vertical elements. This horizontal bar is crucial as it enhances the overall stability of the back frame, ensuring that the vertical bars remain aligned and properly spaced while providing a base for further structural components.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 26,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 27,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 28,
+          "name": "back_frame_horizontal_bar",
+          "text": "Back Frame Horizontal Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 28,
+          "name": "back_frame_horizontal_bar",
+          "text": "Back Frame Horizontal Bar"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Then, add the Seat Hard Surface, positioning it horizontally on top of the Back Frame Horizontal Bar to create a stable and supportive seating area. This addition is crucial as it not only forms the main sitting surface but also connects securely to the existing frame, reinforcing the overall structure and ensuring comfort for the user.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 26,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 27,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 28,
+          "name": "back_frame_horizontal_bar",
+          "text": "Back Frame Horizontal Bar"
+        },
+        {
+          "id": 34,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 34,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        }
+      ]
+    },
+    "6": {
+      "step": 6,
+      "description": "Then, add the Seat Frame Vertical Bar on each side of the seat hard surface, ensuring they are aligned vertically to provide essential support and stability to the seat structure. This addition connects the seat hard surface securely to the back frame vertical bars, enhancing the overall integrity of the object and creating a solid foundation for user weight distribution.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 26,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 27,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 28,
+          "name": "back_frame_horizontal_bar",
+          "text": "Back Frame Horizontal Bar"
+        },
+        {
+          "id": 34,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 32,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 32,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        }
+      ]
+    },
+    "7": {
+      "step": 7,
+      "description": "Then, add the second Seat Frame Vertical Bar, positioning it parallel to the first one and securely attaching it to the existing Seat Hard Surface and the Seat Frame Horizontal Bar. This addition is crucial as it enhances the structural integrity of the seat, providing essential support and stability, while ensuring that the frame is adequately reinforced to withstand weight and use.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 26,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 27,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 28,
+          "name": "back_frame_horizontal_bar",
+          "text": "Back Frame Horizontal Bar"
+        },
+        {
+          "id": 34,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 32,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 33,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 33,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        }
+      ]
+    },
+    "8": {
+      "step": 8,
+      "description": "Then, add the leg by positioning it vertically at each corner of the seat frame, ensuring it provides essential support and stability for the entire structure. This connection not only reinforces the seat hard surface above but also connects seamlessly with the seat frame vertical bars, creating a strong foundation for the object.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 26,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 27,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 28,
+          "name": "back_frame_horizontal_bar",
+          "text": "Back Frame Horizontal Bar"
+        },
+        {
+          "id": 34,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 32,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 33,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "9": {
+      "step": 9,
+      "description": "Then, reinforce the structure by adding another leg parallel to the existing leg, ensuring stability and balance for the overall object. This additional leg connects securely to the seat frame vertical bars, distributing weight evenly and enhancing the durability of the entire assembly.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 26,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 27,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 28,
+          "name": "back_frame_horizontal_bar",
+          "text": "Back Frame Horizontal Bar"
+        },
+        {
+          "id": 34,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 32,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 33,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "10": {
+      "step": 10,
+      "description": "Then, add the runner beneath the legs to provide stability and support, ensuring that the object has a balanced foundation for movement. This addition connects the legs while distributing weight evenly and preventing wobbling, enhancing the overall durability and functionality of the structure.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 26,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 27,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 28,
+          "name": "back_frame_horizontal_bar",
+          "text": "Back Frame Horizontal Bar"
+        },
+        {
+          "id": 34,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 32,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 33,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 11,
+          "name": "runner",
+          "text": "Runner"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 11,
+          "name": "runner",
+          "text": "Runner"
+        }
+      ]
+    },
+    "11": {
+      "step": 11,
+      "description": "Continue by adding the second runner parallel to the first runner, positioning it at the same height to create a stable base for the legs. This addition is crucial as it enhances the overall structural integrity of the object, providing balance and support while ensuring the legs remain securely anchored to the seat and back frame.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 26,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 27,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 28,
+          "name": "back_frame_horizontal_bar",
+          "text": "Back Frame Horizontal Bar"
+        },
+        {
+          "id": 34,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 32,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 33,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 11,
+          "name": "runner",
+          "text": "Runner"
+        },
+        {
+          "id": 12,
+          "name": "runner",
+          "text": "Runner"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 12,
+          "name": "runner",
+          "text": "Runner"
+        }
+      ]
+    },
+    "12": {
+      "step": 12,
+      "description": "Finally, add the second runner parallel to the first one, positioned at the front of the legs to create a stable base that enhances the overall structural integrity of the object. This runner not only supports the weight distribution but also ensures smooth movement and functionality, completing the assembly and providing a cohesive design that ties together all previously added components.",
+      "parts": [
+        {
+          "id": 29,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 26,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 27,
+          "name": "back_frame_vertical_bar",
+          "text": "Back Frame Vertical Bar"
+        },
+        {
+          "id": 28,
+          "name": "back_frame_horizontal_bar",
+          "text": "Back Frame Horizontal Bar"
+        },
+        {
+          "id": 34,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 32,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 33,
+          "name": "seat_frame_vertical_bar",
+          "text": "Seat Frame Vertical Bar"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 11,
+          "name": "runner",
+          "text": "Runner"
+        },
+        {
+          "id": 12,
+          "name": "runner",
+          "text": "Runner"
+        },
+        {
+          "id": 13,
+          "name": "runner",
+          "text": "Runner"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 13,
+          "name": "runner",
+          "text": "Runner"
+        }
+      ]
+    }
+  }
+}

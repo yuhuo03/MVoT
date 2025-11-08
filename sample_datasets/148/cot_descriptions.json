@@ -1,0 +1,107 @@
+{
+  "model_id": "148",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, add the switch to the designated area on the main housing of the object, ensuring it is easily accessible for user interaction. This component is crucial as it will control the power flow, allowing the user to turn the device on and off, thereby playing a fundamental role in the object's functionality.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the vertical support, positioning it directly beneath the switch to provide essential stability and strength to the structure. This support plays a crucial role in anchoring the switch, ensuring it remains secure and functional while also contributing to the overall integrity of the object as it starts to take shape.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 15,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 15,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, add the tube horizontally between the vertical support and the switch to serve as a conduit for wiring, ensuring a clean and organized path for electrical connections. This placement not only reinforces the structure by linking the vertical support to the switch but also allows for easy accessibility when integrating additional components in subsequent steps.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 15,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 13,
+          "name": "tube",
+          "text": "Tube"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 13,
+          "name": "tube",
+          "text": "Tube"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Finally, add the mouth at the end of the tube, ensuring it is securely positioned to allow for effective interaction with the switch and vertical support. This component is crucial as it serves as the output interface of the object, facilitating the desired function while completing the overall design by connecting all the previously added parts into a cohesive unit.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 15,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 13,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 14,
+          "name": "mouth",
+          "text": "Mouth"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 14,
+          "name": "mouth",
+          "text": "Mouth"
+        }
+      ]
+    }
+  }
+}

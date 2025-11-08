@@ -1,0 +1,140 @@
+{
+  "step": 27,
+  "parts": [
+    {
+      "id": 75,
+      "name": "headrest",
+      "text": "Head Rest"
+    },
+    {
+      "id": 76,
+      "name": "head_connector",
+      "text": "Head Connector"
+    },
+    {
+      "id": 72,
+      "name": "back_soft_surface",
+      "text": "Back Soft Surface"
+    },
+    {
+      "id": 68,
+      "name": "back_support",
+      "text": "Back Support"
+    },
+    {
+      "id": 69,
+      "name": "back_support",
+      "text": "Back Support"
+    },
+    {
+      "id": 70,
+      "name": "back_support",
+      "text": "Back Support"
+    },
+    {
+      "id": 71,
+      "name": "back_support",
+      "text": "Back Support"
+    },
+    {
+      "id": 73,
+      "name": "back_connector",
+      "text": "Back Connector"
+    },
+    {
+      "id": 74,
+      "name": "back_connector",
+      "text": "Back Connector"
+    },
+    {
+      "id": 64,
+      "name": "armrest_hard_surface",
+      "text": "Armrest Hard Surface"
+    },
+    {
+      "id": 65,
+      "name": "arm_connector",
+      "text": "Arm Connector"
+    },
+    {
+      "id": 66,
+      "name": "arm_connector",
+      "text": "Arm Connector"
+    },
+    {
+      "id": 61,
+      "name": "armrest_hard_surface",
+      "text": "Armrest Hard Surface"
+    },
+    {
+      "id": 62,
+      "name": "arm_connector",
+      "text": "Arm Connector"
+    },
+    {
+      "id": 63,
+      "name": "arm_connector",
+      "text": "Arm Connector"
+    },
+    {
+      "id": 60,
+      "name": "seat_soft_surface",
+      "text": "Seat Soft Surface"
+    },
+    {
+      "id": 59,
+      "name": "seat_support",
+      "text": "Seat Support"
+    },
+    {
+      "id": 12,
+      "name": "leg",
+      "text": "Leg"
+    },
+    {
+      "id": 13,
+      "name": "leg",
+      "text": "Leg"
+    },
+    {
+      "id": 14,
+      "name": "leg",
+      "text": "Leg"
+    },
+    {
+      "id": 15,
+      "name": "leg",
+      "text": "Leg"
+    },
+    {
+      "id": 43,
+      "name": "wheel",
+      "text": "Wheel"
+    },
+    {
+      "id": 44,
+      "name": "wheel",
+      "text": "Wheel"
+    },
+    {
+      "id": 78,
+      "name": "caster_stem",
+      "text": "Caster Stem"
+    },
+    {
+      "id": 40,
+      "name": "wheel",
+      "text": "Wheel"
+    },
+    {
+      "id": 41,
+      "name": "wheel",
+      "text": "Wheel"
+    },
+    {
+      "id": 79,
+      "name": "caster_stem",
+      "text": "Caster Stem"
+    }
+  ]
+}

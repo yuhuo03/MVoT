@@ -1,0 +1,289 @@
+{
+  "model_id": "436",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, create the back soft surface and position it at the rear of the object to provide a comfortable and supportive area that will enhance user interaction. This foundational part is crucial as it sets the stage for the overall ergonomics and functionality of the object, ensuring a solid base for the subsequent components to connect and integrate seamlessly.",
+      "parts": [
+        {
+          "id": 24,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 24,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the sofa-style arm to each side of the back soft surface, ensuring they are securely attached at a slight angle for optimal comfort and support. This addition not only enhances the overall aesthetic of the object but also provides a functional resting place for users' arms, contributing to the ergonomic design of the sofa.",
+      "parts": [
+        {
+          "id": 24,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 22,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, add the second sofa-style arm on the opposite side of the back soft surface, ensuring it mirrors the first arm for a balanced and symmetrical design. This addition not only enhances the aesthetic appeal of the object but also provides essential support for users, allowing them to comfortably rest their arms while seated.",
+      "parts": [
+        {
+          "id": 24,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 21,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 21,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Now, add the Seat Soft Surface to form the foundational seating area of the object, positioned directly beneath the Back Soft Surface and between the two Sofa-style Arms. This addition is crucial as it provides comfort and support for the user, completing the seat's primary functionality while ensuring a cohesive and inviting design with the existing soft surfaces.",
+      "parts": [
+        {
+          "id": 24,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 21,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 25,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 25,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Then, add the leg at each corner of the sofa to provide essential support and stability for the entire structure, elevating it off the ground. This connection not only ensures the sofa's durability but also complements the existing back soft surface and seat soft surface by creating a balanced foundation that enhances the overall aesthetic and functionality of the piece.",
+      "parts": [
+        {
+          "id": 24,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 21,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 25,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "6": {
+      "step": 6,
+      "description": "Continue by adding the second leg to the opposite side of the sofa, ensuring it mirrors the first leg for stability and aesthetic balance. This leg will provide essential support for the structure, distributing weight evenly and enhancing the overall sturdiness of the sofa.",
+      "parts": [
+        {
+          "id": 24,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 21,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 25,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "7": {
+      "step": 7,
+      "description": "Then, add the final leg to the opposing corner of the sofa to ensure stability and balance, allowing the entire structure to bear weight evenly. This leg complements the previously installed legs and provides essential support, reinforcing the overall durability of the sofa while enhancing its aesthetic symmetry.",
+      "parts": [
+        {
+          "id": 24,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 21,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 25,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "8": {
+      "step": 8,
+      "description": "Finally, add the last leg to the remaining corner of the sofa to ensure that the entire structure is stable and balanced, supporting the weight of the back and seat surfaces effectively. This final addition not only enhances the overall aesthetic by completing the visual symmetry of the sofa but also reinforces the support provided by the other legs, ensuring durability and functionality for everyday use.",
+      "parts": [
+        {
+          "id": 24,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 22,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 21,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 25,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    }
+  }
+}

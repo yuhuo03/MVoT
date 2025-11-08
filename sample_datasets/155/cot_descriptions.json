@@ -1,0 +1,145 @@
+{
+  "model_id": "155",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, add the switch at the designated control panel area to serve as the primary means of activating and deactivating the object’s functions. This component is crucial as it provides the user with direct control, ensuring that the subsequent electrical components can be managed effectively.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, install the switch housing around the previously added switch to provide structural support and protection for the internal components. This housing not only secures the switch in place but also ensures that it remains functional and accessible, allowing users to easily operate the switch while maintaining a clean and organized appearance for the overall object.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, add the third switch in line with the previously installed switches to create a unified control panel, enhancing the overall functionality of the object by allowing for multiple operational modes. This switch will be positioned directly adjacent to the second switch, ensuring that all controls are easily accessible and promoting a seamless interaction for the user.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 12,
+          "name": "switch",
+          "text": "Switch"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 12,
+          "name": "switch",
+          "text": "Switch"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Then, add the vertical support between the switches to provide stability and strengthen the overall structure of the object. This support will connect the three switches vertically, ensuring they remain aligned and secure while also enhancing the durability of the assembly during use.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 12,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 16,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 16,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Finally, add the tube by positioning it centrally above the vertical support, connecting it to the existing switches. This tube serves as the main conduit for wiring, ensuring that all electrical connections are organized and facilitating the flow of power to each switch, thereby completing the structure's functionality and enhancing its overall efficiency.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 12,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 16,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 15,
+          "name": "tube",
+          "text": "Tube"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 15,
+          "name": "tube",
+          "text": "Tube"
+        }
+      ]
+    }
+  }
+}

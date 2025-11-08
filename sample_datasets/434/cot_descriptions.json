@@ -1,0 +1,46 @@
+{
+  "model_id": "434",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, create the blade, which will serve as the primary cutting edge of the object, positioned at the front and extending outward to define its sharp, functional profile. This initial component is crucial as it establishes the object's purpose and sets the foundation for the subsequent elements that will enhance its usability and overall structure.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Finally, add the handle to the base of the blade, positioning it securely to create a comfortable grip for the user. This handle not only allows for effective maneuverability and control while using the blade but also balances the overall weight of the object, ensuring it is functional and easy to handle during use.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 4,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 4,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ]
+    }
+  }
+}

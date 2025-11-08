@@ -1,0 +1,236 @@
+{
+  "model_id": "177",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, add the Back Soft Surface to serve as the foundational layer of the object, providing a comfortable and supportive area that will interact with the user’s body. This piece is positioned at the rear of the structure, establishing the initial contour and ensuring that subsequent components can be integrated seamlessly around it.",
+      "parts": [
+        {
+          "id": 15,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 15,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the Seat Soft Surface directly below the Back Soft Surface to create a cohesive seating area that enhances comfort and support for the user. This addition is crucial as it establishes the main sitting part of the object, ensuring that the user has a comfortable and stable base to sit upon, while also connecting seamlessly with the back surface for an integrated design.",
+      "parts": [
+        {
+          "id": 15,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 16,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 16,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, add the leg to the underside of the seat soft surface, positioning it at the front to provide essential support and stability for the entire structure. This leg will not only bear the weight of the seat and occupants but also connect to the back soft surface, creating a cohesive framework that ensures the object remains sturdy during use.",
+      "parts": [
+        {
+          "id": 15,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 16,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Continue by adding another leg on the opposite side of the existing leg to ensure stability and balance for the structure. This new leg will be positioned parallel to the first leg, providing equal support and reinforcing the overall strength of the object, allowing it to bear weight effectively.",
+      "parts": [
+        {
+          "id": 15,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 16,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Then, add another leg to the opposite side of the existing legs, ensuring it is evenly positioned to provide balance and stability for the overall structure. This additional leg reinforces the support framework, allowing the object to withstand weight and maintain its upright posture while complementing the aesthetic symmetry created by the two legs on either side.",
+      "parts": [
+        {
+          "id": 15,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 16,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "6": {
+      "step": 6,
+      "description": "Then, add the fourth leg to the opposite side of the chair, ensuring it mirrors the position of the other legs for stability and balance. This addition is crucial as it completes the foundational support structure, allowing the chair to stand evenly and securely on all four corners.",
+      "parts": [
+        {
+          "id": 15,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 16,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "7": {
+      "step": 7,
+      "description": "Finally, add the other_leaf to the opposite side of the seat soft surface, which serves to enhance stability and balance by creating a symmetrical design that mirrors the existing leaf structure. This final addition not only reinforces the overall strength of the seating area but also contributes to the aesthetic appeal, ensuring a cohesive look that aligns with the previously installed back soft surface and legs.",
+      "parts": [
+        {
+          "id": 15,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 16,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 5,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 5,
+          "name": "other_leaf",
+          "text": "other_leaf"
+        }
+      ]
+    }
+  }
+}

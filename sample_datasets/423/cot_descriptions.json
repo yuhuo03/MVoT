@@ -1,0 +1,347 @@
+{
+  "model_id": "423",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, add the back hard surface to serve as the foundational layer of the object, providing structural integrity and support for the overall design. This component will act as a stabilizing element, ensuring that any subsequent parts can be securely attached and aligned properly as the construction progresses.",
+      "parts": [
+        {
+          "id": 15,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 15,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the sofa-style arm to the sides of the back hard surface, ensuring it is securely attached to provide a comfortable resting place for users. This arm not only enhances the overall aesthetic of the object but also offers essential support and stability, completing the foundational shape that will accommodate the rest of the sofa's design.",
+      "parts": [
+        {
+          "id": 15,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, add the second sofa-style arm to the opposite side of the back hard surface, ensuring symmetry and balance in the overall design. This arm will not only provide a cohesive look but also enhance functionality by offering additional support and comfort for users sitting on either side of the object.",
+      "parts": [
+        {
+          "id": 15,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 18,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 18,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Now, add the Seat Hard Surface directly beneath the Back Hard Surface and between the two Sofa-style Arms to create a stable and comfortable seating area. This component is crucial as it provides the foundational support for the overall structure, ensuring that the seating experience is both functional and aesthetically cohesive with the existing parts.",
+      "parts": [
+        {
+          "id": 15,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 18,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 13,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 13,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Then, add the leg to the bottom of the seat hard surface, positioned at each corner to provide essential support and stability for the entire structure. This leg not only elevates the seating area, ensuring comfort and accessibility, but also connects firmly to the seat, enhancing the overall integrity and function of the furniture piece.",
+      "parts": [
+        {
+          "id": 15,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 18,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 13,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "6": {
+      "step": 6,
+      "description": "Then, add another leg to the opposite side of the existing leg to ensure stability and balance for the structure, allowing the object to support weight evenly. This addition reinforces the overall integrity of the piece, complementing the previously added legs and enhancing the cohesive design of the furniture.",
+      "parts": [
+        {
+          "id": 15,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 18,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 13,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "7": {
+      "step": 7,
+      "description": "Then, add the third leg to the opposite side of the existing legs, ensuring it is evenly spaced and aligned with the overall structure of the object. This additional leg is crucial for providing stability and support, allowing the object to bear weight evenly while enhancing its balance and functionality.",
+      "parts": [
+        {
+          "id": 15,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 18,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 13,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "8": {
+      "step": 8,
+      "description": "Then, add the fourth leg to the object, positioning it symmetrically at the front right corner, ensuring it provides balanced support and stability to the overall structure. This leg is crucial as it reinforces the weight distribution across the seating area, linking seamlessly with the three existing legs to create a sturdy foundation for the sofa design.",
+      "parts": [
+        {
+          "id": 15,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 18,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 13,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "9": {
+      "step": 9,
+      "description": "Finally, add the seat connector beneath the seat hard surface to securely link the seat to the four legs, providing essential stability and support for the entire structure. This component not only reinforces the connection between the seat and legs but also ensures that the seating area remains firmly anchored, enhancing both the durability and functionality of the object.",
+      "parts": [
+        {
+          "id": 15,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 19,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 18,
+          "name": "arm_sofa_style",
+          "text": "Sofa-style Arm"
+        },
+        {
+          "id": 13,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 9,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 10,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 20,
+          "name": "seat_connector",
+          "text": "Seat Connector"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 20,
+          "name": "seat_connector",
+          "text": "Seat Connector"
+        }
+      ]
+    }
+  }
+}

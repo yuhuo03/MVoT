@@ -1,0 +1,20 @@
+{
+  "step": 3,
+  "parts": [
+    {
+      "id": 75,
+      "name": "headrest",
+      "text": "Head Rest"
+    },
+    {
+      "id": 76,
+      "name": "head_connector",
+      "text": "Head Connector"
+    },
+    {
+      "id": 72,
+      "name": "back_soft_surface",
+      "text": "Back Soft Surface"
+    }
+  ]
+}

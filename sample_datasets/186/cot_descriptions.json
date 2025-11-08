@@ -1,0 +1,410 @@
+{
+  "model_id": "186",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, add the Back Soft Surface to provide a comfortable and supportive area that will serve as the foundational backing for the object. This component is crucial as it establishes a soft texture that enhances user interaction and ensures stability for any additional features that will be built upon it.",
+      "parts": [
+        {
+          "id": 33,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 33,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the Back Holistic Frame directly over the Back Soft Surface to provide structural integrity and support for the overall object. This frame acts as a foundational element that will help maintain the shape of the object while also enhancing durability, ensuring that the soft surface remains securely in place and functions effectively.",
+      "parts": [
+        {
+          "id": 33,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 32,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 32,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, attach the Back Connector to the back of the Back Holistic Frame, ensuring it aligns perfectly to create a stable junction between the frame and the soft surface. This addition is crucial as it reinforces the structural integrity of the assembly, enabling the back area to flex and support the overall design while maintaining a cohesive connection between the back components.",
+      "parts": [
+        {
+          "id": 33,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 32,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 30,
+          "name": "back_connector",
+          "text": "Back Connector"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 30,
+          "name": "back_connector",
+          "text": "Back Connector"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Continue by reinforcing the structure with the Back Connector, placing it securely between the Back Holistic Frame and the Back Soft Surface. This connection is crucial as it enhances the overall stability of the object, ensuring that the softer surface maintains its shape and support while also allowing for flexibility in the design.",
+      "parts": [
+        {
+          "id": 33,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 32,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 30,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 31,
+          "name": "back_connector",
+          "text": "Back Connector"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 31,
+          "name": "back_connector",
+          "text": "Back Connector"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Then, add the Seat Soft Surface just above the Back Soft Surface to provide a comfortable seating area, ensuring that it aligns seamlessly with the existing back structure. This addition is crucial as it enhances the overall ergonomics of the object, allowing for a supportive and inviting seating experience that complements the holistic design established by the Back Holistic Frame and Back Connectors.",
+      "parts": [
+        {
+          "id": 33,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 32,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 30,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 31,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        }
+      ]
+    },
+    "6": {
+      "step": 6,
+      "description": "Then, add the Seat Support beneath the Seat Soft Surface to provide essential structural integrity and stability, ensuring that the seat can bear weight without sagging. This component connects directly to the Back Holistic Frame and the Back Connectors, reinforcing the overall strength of the assembly and forming a solid foundation for the user.",
+      "parts": [
+        {
+          "id": 33,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 32,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 30,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 31,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 10,
+          "name": "seat_support",
+          "text": "Seat Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 10,
+          "name": "seat_support",
+          "text": "Seat Support"
+        }
+      ]
+    },
+    "7": {
+      "step": 7,
+      "description": "Then, add the leg to the base of the seat support, ensuring it is securely positioned to provide stability and balance for the entire structure. This leg will serve as a crucial support system, distributing weight evenly and connecting the seat and back components to the ground, enhancing the overall durability and function of the object.",
+      "parts": [
+        {
+          "id": 33,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 32,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 30,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 31,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 10,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 5,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 5,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "8": {
+      "step": 8,
+      "description": "Now, add the second leg to the opposite side of the seat support, ensuring it mirrors the first leg for balance and stability. This addition is crucial as it provides structural integrity to the overall object, allowing it to support weight evenly and enhancing its functionality as a seating piece.",
+      "parts": [
+        {
+          "id": 33,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 32,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 30,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 31,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 10,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 5,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 6,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 6,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "9": {
+      "step": 9,
+      "description": "Then, add another leg opposite the previously installed leg to ensure balanced support for the entire structure, allowing for stability and weight distribution. This new leg connects to the seat support at the same level as the first leg, reinforcing the overall integrity of the object and providing a solid foundation for use.",
+      "parts": [
+        {
+          "id": 33,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 32,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 30,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 31,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 10,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 5,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 6,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "10": {
+      "step": 10,
+      "description": "Finally, add the fourth leg to the remaining corner of the seat, ensuring it aligns with the other three legs for stability and balance. This leg will complete the structural integrity of the object, providing a solid base that supports the seat and back, allowing for safe and comfortable use.",
+      "parts": [
+        {
+          "id": 33,
+          "name": "back_soft_surface",
+          "text": "Back Soft Surface"
+        },
+        {
+          "id": 32,
+          "name": "back_holistic_frame",
+          "text": "Back Holistic Frame"
+        },
+        {
+          "id": 30,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 31,
+          "name": "back_connector",
+          "text": "Back Connector"
+        },
+        {
+          "id": 11,
+          "name": "seat_soft_surface",
+          "text": "Seat Soft Surface"
+        },
+        {
+          "id": 10,
+          "name": "seat_support",
+          "text": "Seat Support"
+        },
+        {
+          "id": 5,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 6,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 7,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 8,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    }
+  }
+}

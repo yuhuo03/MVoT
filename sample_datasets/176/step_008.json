@@ -1,0 +1,45 @@
+{
+  "step": 8,
+  "parts": [
+    {
+      "id": 35,
+      "name": "back_soft_surface",
+      "text": "Back Soft Surface"
+    },
+    {
+      "id": 34,
+      "name": "back_holistic_frame",
+      "text": "Back Holistic Frame"
+    },
+    {
+      "id": 17,
+      "name": "seat_soft_surface",
+      "text": "Seat Soft Surface"
+    },
+    {
+      "id": 16,
+      "name": "seat_support",
+      "text": "Seat Support"
+    },
+    {
+      "id": 11,
+      "name": "leg",
+      "text": "Leg"
+    },
+    {
+      "id": 12,
+      "name": "leg",
+      "text": "Leg"
+    },
+    {
+      "id": 13,
+      "name": "leg",
+      "text": "Leg"
+    },
+    {
+      "id": 14,
+      "name": "leg",
+      "text": "Leg"
+    }
+  ]
+}

@@ -1,0 +1,1202 @@
+{
+  "model_id": "150",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, add the switch to the designated area of the object, ensuring it is easily accessible for user interaction. This component is crucial as it will control the power and functionality of the entire assembly, serving as the initial interface for user engagement with the device.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add a second switch adjacent to the first one, ensuring that both switches are aligned vertically to facilitate easy access and control. This additional switch will enhance the functionality of the object by allowing for multiple operations, creating a more versatile user interface while maintaining a cohesive design with the existing switch.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, add the hose, positioning it directly below the switches to create a seamless conduit that connects the switches to the operational mechanism of the object. This hose is essential for channeling fluid or air as needed, allowing the switches to effectively control the flow and ensuring the overall functionality of the system.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 12,
+          "name": "hose",
+          "text": "Hose"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 12,
+          "name": "hose",
+          "text": "Hose"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Then, add the tube extending from the hose to facilitate the flow of liquid or air, creating a direct pathway for functionality. This connection is crucial as it bridges the existing hose and will later link to other components, ensuring a seamless transfer of resources throughout the assembly.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 12,
+          "name": "hose",
+          "text": "Hose"
+        },
+        {
+          "id": 16,
+          "name": "tube",
+          "text": "Tube"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 16,
+          "name": "tube",
+          "text": "Tube"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Then, add the head at the top of the tube to serve as the primary interface for the object, allowing for the effective release or intake of air or fluid. This head not only connects directly to the existing tube but also aligns with the switches and hose, creating a cohesive system where the user can control the flow initiated by the switches and channeled through the hose.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 12,
+          "name": "hose",
+          "text": "Hose"
+        },
+        {
+          "id": 16,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 17,
+          "name": "head",
+          "text": "Head"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 17,
+          "name": "head",
+          "text": "Head"
+        }
+      ]
+    },
+    "6": {
+      "step": 6,
+      "description": "Then, add the mouth just below the head, ensuring it is positioned to allow for proper articulation and movement. This component is crucial as it not only enhances the aesthetic appearance of the object but also serves a functional purpose for any potential interactions or operations, connecting seamlessly with the head to create a cohesive design.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 12,
+          "name": "hose",
+          "text": "Hose"
+        },
+        {
+          "id": 16,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 17,
+          "name": "head",
+          "text": "Head"
+        },
+        {
+          "id": 18,
+          "name": "mouth",
+          "text": "Mouth"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 18,
+          "name": "mouth",
+          "text": "Mouth"
+        }
+      ]
+    },
+    "7": {
+      "step": 7,
+      "description": "Then, add the Vertical Support, positioning it vertically at the back of the Head to provide essential stability and reinforcement to the entire structure. This support acts as a backbone, connecting the Head and Mouth to the base components, ensuring that the assembly remains sturdy and functional as additional parts are integrated in subsequent steps.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 12,
+          "name": "hose",
+          "text": "Hose"
+        },
+        {
+          "id": 16,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 17,
+          "name": "head",
+          "text": "Head"
+        },
+        {
+          "id": 18,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 19,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 19,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        }
+      ]
+    },
+    "8": {
+      "step": 8,
+      "description": "Then, add the connector between the tube and the hose to create a secure and functional link that facilitates the flow of air or fluid from the hose into the tube. This connection is crucial as it ensures that the system operates efficiently, allowing for proper transmission of materials while maintaining stability in the overall structure established by the vertical support and other components.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 12,
+          "name": "hose",
+          "text": "Hose"
+        },
+        {
+          "id": 16,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 17,
+          "name": "head",
+          "text": "Head"
+        },
+        {
+          "id": 18,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 19,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 20,
+          "name": "connector",
+          "text": "Connector"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 20,
+          "name": "connector",
+          "text": "Connector"
+        }
+      ]
+    },
+    "9": {
+      "step": 9,
+      "description": "Then, add another tube parallel to the existing tube to create a dual-channel pathway for fluid flow, enhancing the efficiency of the system. This new tube connects seamlessly to the existing hose and serves as a conduit for directing fluid towards the head, ensuring that both channels can operate simultaneously without obstruction.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 12,
+          "name": "hose",
+          "text": "Hose"
+        },
+        {
+          "id": 16,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 17,
+          "name": "head",
+          "text": "Head"
+        },
+        {
+          "id": 18,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 19,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 20,
+          "name": "connector",
+          "text": "Connector"
+        },
+        {
+          "id": 23,
+          "name": "tube",
+          "text": "Tube"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 23,
+          "name": "tube",
+          "text": "Tube"
+        }
+      ]
+    },
+    "10": {
+      "step": 10,
+      "description": "Then, add the second Mouth component adjacent to the first Mouth, ensuring that both mouths align properly to create a balanced opening for airflow. This addition is crucial for the functionality of the object, as it enhances the ability to intake air or liquid, while also reinforcing the structural integrity of the head, connecting seamlessly with the previously added Head and Vertical Support.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 12,
+          "name": "hose",
+          "text": "Hose"
+        },
+        {
+          "id": 16,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 17,
+          "name": "head",
+          "text": "Head"
+        },
+        {
+          "id": 18,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 19,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 20,
+          "name": "connector",
+          "text": "Connector"
+        },
+        {
+          "id": 23,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 24,
+          "name": "mouth",
+          "text": "Mouth"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 24,
+          "name": "mouth",
+          "text": "Mouth"
+        }
+      ]
+    },
+    "11": {
+      "step": 11,
+      "description": "Then, add the Horizontal Support by positioning it horizontally across the Vertical Support, ensuring it reinforces the overall structure and stability of the object. This connection is crucial as it provides additional strength to the assembly, allowing for better weight distribution and support for the components above, such as the Head and Mouth.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 12,
+          "name": "hose",
+          "text": "Hose"
+        },
+        {
+          "id": 16,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 17,
+          "name": "head",
+          "text": "Head"
+        },
+        {
+          "id": 18,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 19,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 20,
+          "name": "connector",
+          "text": "Connector"
+        },
+        {
+          "id": 23,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 24,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 33,
+          "name": "horizontal_support",
+          "text": "Horizontal Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 33,
+          "name": "horizontal_support",
+          "text": "Horizontal Support"
+        }
+      ]
+    },
+    "12": {
+      "step": 12,
+      "description": "Then, add the Surface Base at the bottom of the structure to provide a stable foundation that supports all the above components, ensuring the object remains balanced and functional. This new addition will connect securely with the Vertical Support and Horizontal Support, reinforcing the overall integrity and durability of the assembly as it completes the base layer of the design.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 12,
+          "name": "hose",
+          "text": "Hose"
+        },
+        {
+          "id": 16,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 17,
+          "name": "head",
+          "text": "Head"
+        },
+        {
+          "id": 18,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 19,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 20,
+          "name": "connector",
+          "text": "Connector"
+        },
+        {
+          "id": 23,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 24,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 33,
+          "name": "horizontal_support",
+          "text": "Horizontal Support"
+        },
+        {
+          "id": 34,
+          "name": "surface_base",
+          "text": "Surface Base"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 34,
+          "name": "surface_base",
+          "text": "Surface Base"
+        }
+      ]
+    },
+    "13": {
+      "step": 13,
+      "description": "Now, add the additional Surface Base to reinforce stability and provide a solid foundation for the entire structure. This new base will connect securely with the existing Horizontal Support and Vertical Support, ensuring that all components maintain proper alignment and balance as the object continues to take shape.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 12,
+          "name": "hose",
+          "text": "Hose"
+        },
+        {
+          "id": 16,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 17,
+          "name": "head",
+          "text": "Head"
+        },
+        {
+          "id": 18,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 19,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 20,
+          "name": "connector",
+          "text": "Connector"
+        },
+        {
+          "id": 23,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 24,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 33,
+          "name": "horizontal_support",
+          "text": "Horizontal Support"
+        },
+        {
+          "id": 34,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 35,
+          "name": "surface_base",
+          "text": "Surface Base"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 35,
+          "name": "surface_base",
+          "text": "Surface Base"
+        }
+      ]
+    },
+    "14": {
+      "step": 14,
+      "description": "Then, add another Vertical Support alongside the previously added one to enhance the structural integrity of the assembly, ensuring it can withstand any lateral forces. This new support will connect at the base of the Head and align with the Horizontal Support, reinforcing the overall stability of the structure while providing a solid framework for future components.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 12,
+          "name": "hose",
+          "text": "Hose"
+        },
+        {
+          "id": 16,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 17,
+          "name": "head",
+          "text": "Head"
+        },
+        {
+          "id": 18,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 19,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 20,
+          "name": "connector",
+          "text": "Connector"
+        },
+        {
+          "id": 23,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 24,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 33,
+          "name": "horizontal_support",
+          "text": "Horizontal Support"
+        },
+        {
+          "id": 34,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 35,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 36,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 36,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        }
+      ]
+    },
+    "15": {
+      "step": 15,
+      "description": "Then, add another Vertical Support adjacent to the existing vertical supports to enhance the structural integrity of the assembly. This new support will provide additional stability, particularly for the upper components, ensuring that they are securely held in place and can withstand the operational forces generated during use.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 12,
+          "name": "hose",
+          "text": "Hose"
+        },
+        {
+          "id": 16,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 17,
+          "name": "head",
+          "text": "Head"
+        },
+        {
+          "id": 18,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 19,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 20,
+          "name": "connector",
+          "text": "Connector"
+        },
+        {
+          "id": 23,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 24,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 33,
+          "name": "horizontal_support",
+          "text": "Horizontal Support"
+        },
+        {
+          "id": 34,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 35,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 36,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 37,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 37,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        }
+      ]
+    },
+    "16": {
+      "step": 16,
+      "description": "Then, add another Vertical Support to the structure, positioning it parallel to the existing supports for increased stability. This additional support reinforces the overall framework, ensuring that the weight of the upper components is evenly distributed and enhancing the durability of the entire assembly.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 12,
+          "name": "hose",
+          "text": "Hose"
+        },
+        {
+          "id": 16,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 17,
+          "name": "head",
+          "text": "Head"
+        },
+        {
+          "id": 18,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 19,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 20,
+          "name": "connector",
+          "text": "Connector"
+        },
+        {
+          "id": 23,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 24,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 33,
+          "name": "horizontal_support",
+          "text": "Horizontal Support"
+        },
+        {
+          "id": 34,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 35,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 36,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 37,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 38,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 38,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        }
+      ]
+    },
+    "17": {
+      "step": 17,
+      "description": "Then, add the Horizontal Support across the existing Vertical Supports to provide additional stability and rigidity to the structure, ensuring that it can withstand any lateral forces. This support will also help to evenly distribute weight across the Vertical Supports, reinforcing the overall integrity of the object as it approaches completion.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 12,
+          "name": "hose",
+          "text": "Hose"
+        },
+        {
+          "id": 16,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 17,
+          "name": "head",
+          "text": "Head"
+        },
+        {
+          "id": 18,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 19,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 20,
+          "name": "connector",
+          "text": "Connector"
+        },
+        {
+          "id": 23,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 24,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 33,
+          "name": "horizontal_support",
+          "text": "Horizontal Support"
+        },
+        {
+          "id": 34,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 35,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 36,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 37,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 38,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 39,
+          "name": "horizontal_support",
+          "text": "Horizontal Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 39,
+          "name": "horizontal_support",
+          "text": "Horizontal Support"
+        }
+      ]
+    },
+    "18": {
+      "step": 18,
+      "description": "Then, add the Other Support adjacent to the existing Vertical Supports to enhance the overall stability of the structure, ensuring that the assembly can withstand any lateral forces. This support not only reinforces the connection between the Vertical Supports and the Horizontal Support, but also contributes to the integrity of the entire object by distributing weight more evenly across the frame.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 12,
+          "name": "hose",
+          "text": "Hose"
+        },
+        {
+          "id": 16,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 17,
+          "name": "head",
+          "text": "Head"
+        },
+        {
+          "id": 18,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 19,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 20,
+          "name": "connector",
+          "text": "Connector"
+        },
+        {
+          "id": 23,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 24,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 33,
+          "name": "horizontal_support",
+          "text": "Horizontal Support"
+        },
+        {
+          "id": 34,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 35,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 36,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 37,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 38,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 39,
+          "name": "horizontal_support",
+          "text": "Horizontal Support"
+        },
+        {
+          "id": 40,
+          "name": "other_support",
+          "text": "Other Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 40,
+          "name": "other_support",
+          "text": "Other Support"
+        }
+      ]
+    },
+    "19": {
+      "step": 19,
+      "description": "Finally, add the last switch to the assembly, positioning it strategically near the existing switches to ensure easy access and intuitive operation for the user. This final switch not only enhances the functionality of the object by allowing for multiple control options but also completes the cohesive look of the design, integrating seamlessly with the surrounding components such as the hose and connectors that facilitate its overall purpose.",
+      "parts": [
+        {
+          "id": 10,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 11,
+          "name": "switch",
+          "text": "Switch"
+        },
+        {
+          "id": 12,
+          "name": "hose",
+          "text": "Hose"
+        },
+        {
+          "id": 16,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 17,
+          "name": "head",
+          "text": "Head"
+        },
+        {
+          "id": 18,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 19,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 20,
+          "name": "connector",
+          "text": "Connector"
+        },
+        {
+          "id": 23,
+          "name": "tube",
+          "text": "Tube"
+        },
+        {
+          "id": 24,
+          "name": "mouth",
+          "text": "Mouth"
+        },
+        {
+          "id": 33,
+          "name": "horizontal_support",
+          "text": "Horizontal Support"
+        },
+        {
+          "id": 34,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 35,
+          "name": "surface_base",
+          "text": "Surface Base"
+        },
+        {
+          "id": 36,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 37,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 38,
+          "name": "vertical_support",
+          "text": "Vertical Support"
+        },
+        {
+          "id": 39,
+          "name": "horizontal_support",
+          "text": "Horizontal Support"
+        },
+        {
+          "id": 40,
+          "name": "other_support",
+          "text": "Other Support"
+        },
+        {
+          "id": 41,
+          "name": "switch",
+          "text": "Switch"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 41,
+          "name": "switch",
+          "text": "Switch"
+        }
+      ]
+    }
+  }
+}

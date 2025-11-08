@@ -1,0 +1,35 @@
+{
+  "step": 6,
+  "parts": [
+    {
+      "id": 12,
+      "name": "back_hard_surface",
+      "text": "Back Hard Surface"
+    },
+    {
+      "id": 13,
+      "name": "seat_soft_surface",
+      "text": "Seat Soft Surface"
+    },
+    {
+      "id": 17,
+      "name": "seat_support",
+      "text": "Seat Support"
+    },
+    {
+      "id": 5,
+      "name": "leg",
+      "text": "Leg"
+    },
+    {
+      "id": 6,
+      "name": "leg",
+      "text": "Leg"
+    },
+    {
+      "id": 7,
+      "name": "leg",
+      "text": "Leg"
+    }
+  ]
+}

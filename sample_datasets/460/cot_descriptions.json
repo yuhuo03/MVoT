@@ -1,0 +1,991 @@
+{
+  "model_id": "460",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, add the back hard surface to establish a solid foundation for the object, positioning it at the rear to provide structural integrity and support for the subsequent components. This foundational element is crucial as it will anchor the other parts and ensure stability as the construction progresses.",
+      "parts": [
+        {
+          "id": 51,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 51,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the Back Support directly behind the Back Hard Surface to provide structural reinforcement and stability to the overall framework. This component is essential as it ensures that the back of the object maintains its shape and can withstand stress, effectively connecting and supporting the existing hard surface for enhanced durability.",
+      "parts": [
+        {
+          "id": 51,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 52,
+          "name": "back_support",
+          "text": "Back Support"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 52,
+          "name": "back_support",
+          "text": "Back Support"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, add the Armrest Hard Surface adjacent to the Back Support, ensuring it is securely positioned at a comfortable height for users. This element not only enhances the overall ergonomic design by providing a resting place for the arms but also reinforces the structural integrity of the back section, creating a cohesive and supportive seating experience.",
+      "parts": [
+        {
+          "id": 51,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 52,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 48,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 48,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Then, add the Arm Connector to link the Armrest Hard Surface to the Back Support, providing essential stability and reinforcing the structure of the seating object. This connection is crucial as it ensures that the armrest is securely positioned, allowing for comfortable use while maintaining the overall integrity of the design.",
+      "parts": [
+        {
+          "id": 51,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 52,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 48,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 49,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 49,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        }
+      ]
+    },
+    "5": {
+      "step": 5,
+      "description": "Then, add the cushion for the armrest to enhance comfort and provide a supportive surface for users’ arms while seated. This cushion will be positioned directly on top of the armrest hard surface, connecting seamlessly with the arm connector to ensure stability and a cohesive design that complements the overall structure of the seating object.",
+      "parts": [
+        {
+          "id": 51,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 52,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 48,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 49,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 43,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 43,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        }
+      ]
+    },
+    "6": {
+      "step": 6,
+      "description": "Then, attach the arm connector to the top of the armrest hard surface, ensuring it aligns securely with the back support to create a stable junction between the armrest and the back of the object. This connection is crucial as it contributes to the overall structural integrity and support of the armrest, allowing it to effectively bear weight and provide comfort when in use.",
+      "parts": [
+        {
+          "id": 51,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 52,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 48,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 49,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 43,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 47,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 47,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        }
+      ]
+    },
+    "7": {
+      "step": 7,
+      "description": "Then, add the Seat Hard Surface to the base of the armrests and between the back support, creating a central area for seating that connects the upper structures of the back and armrests. This addition is crucial as it forms the primary seating space, ensuring structural integrity while providing comfort and support to the user, effectively linking the previously added back and armrest components.",
+      "parts": [
+        {
+          "id": 51,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 52,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 48,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 49,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 43,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 47,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 39,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 39,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        }
+      ]
+    },
+    "8": {
+      "step": 8,
+      "description": "Then, add the Seat Frame Horizontal Bar to connect the two sides of the seat frame, providing lateral stability and support for the seat hard surface. This bar is positioned just below the seat hard surface, reinforcing the overall structure and ensuring that the seat maintains its shape under weight, enhancing comfort and durability.",
+      "parts": [
+        {
+          "id": 51,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 52,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 48,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 49,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 43,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 47,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 39,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 37,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 37,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        }
+      ]
+    },
+    "9": {
+      "step": 9,
+      "description": "Now, add the Seat Frame Vertical Bar, positioning it perpendicular to the previously installed horizontal bar, which will provide essential structural support and stability to the seat frame. This vertical bar connects the horizontal bar to the seat hard surface, ensuring that the overall structure can withstand weight and maintain its integrity during use.",
+      "parts": [
+        {
+          "id": 51,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 52,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 48,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 49,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 43,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 47,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 39,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 37,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 38,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 38,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        }
+      ]
+    },
+    "10": {
+      "step": 10,
+      "description": "Then, add the leg to the base of the seat frame, ensuring it is securely positioned at the corners for optimal stability and support. This leg will serve as a critical structural element, providing balance to the entire object while connecting the seat hard surface to the ground, thereby enhancing the overall durability and functionality of the design.",
+      "parts": [
+        {
+          "id": 51,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 52,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 48,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 49,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 43,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 47,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 39,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 37,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 38,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 27,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 27,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "11": {
+      "step": 11,
+      "description": "Continue by adding the second leg to the opposite side of the seat, ensuring it mirrors the first leg for stability and balance. This leg is crucial as it supports the entire structure, connecting the seat frame to the ground while maintaining the overall integrity of the chair by distributing weight evenly across all four legs.",
+      "parts": [
+        {
+          "id": 51,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 52,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 48,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 49,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 43,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 47,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 39,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 37,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 38,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 27,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 28,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 28,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "12": {
+      "step": 12,
+      "description": "Then, add another leg on the opposite side of the previously installed leg to ensure stability and balance for the overall structure. This leg will connect to the seat frame, reinforcing the support needed to uphold the weight of the seat and providing a symmetrical foundation that enhances the object’s durability and functionality.",
+      "parts": [
+        {
+          "id": 51,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 52,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 48,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 49,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 43,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 47,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 39,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 37,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 38,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 27,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 28,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 29,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 29,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "13": {
+      "step": 13,
+      "description": "Then, add the fourth leg to the opposite side of the existing legs to ensure stability and balance for the overall structure. This leg will connect directly to the seat frame, reinforcing the weight distribution and providing a solid foundation for the seating area.",
+      "parts": [
+        {
+          "id": 51,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 52,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 48,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 49,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 43,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 47,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 39,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 37,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 38,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 27,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 28,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 29,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 30,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 30,
+          "name": "leg",
+          "text": "Leg"
+        }
+      ]
+    },
+    "14": {
+      "step": 14,
+      "description": "Now, attach the rocker beneath the legs to provide a smooth rocking motion, enhancing the functionality and comfort of the object. This addition connects to the legs, ensuring stability while allowing the user to gently sway back and forth, which is crucial for creating a relaxing seating experience.",
+      "parts": [
+        {
+          "id": 51,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 52,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 48,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 49,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 43,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 47,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 39,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 37,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 38,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 27,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 28,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 29,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 30,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 31,
+          "name": "rocker",
+          "text": "Rocker"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 31,
+          "name": "rocker",
+          "text": "Rocker"
+        }
+      ]
+    },
+    "15": {
+      "step": 15,
+      "description": "Now, secure the rocker to the base of the legs, ensuring it is positioned evenly between them to facilitate a smooth rocking motion. This addition is crucial as it provides both stability and functionality, allowing the object to sway gently while maintaining a firm connection to the legs, enhancing the overall design and user experience.",
+      "parts": [
+        {
+          "id": 51,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 52,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 48,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 49,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 43,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 47,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 39,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 37,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 38,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 27,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 28,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 29,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 30,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 31,
+          "name": "rocker",
+          "text": "Rocker"
+        },
+        {
+          "id": 32,
+          "name": "rocker",
+          "text": "Rocker"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 32,
+          "name": "rocker",
+          "text": "Rocker"
+        }
+      ]
+    },
+    "16": {
+      "step": 16,
+      "description": "Then, add the Bar Stretcher between the legs to enhance the overall stability of the structure while providing support against lateral movement. This connection not only reinforces the leg assembly but also ties together the components of the chair, ensuring a solid foundation for the seat and back support.",
+      "parts": [
+        {
+          "id": 51,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 52,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 48,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 49,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 43,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 47,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 39,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 37,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 38,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 27,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 28,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 29,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 30,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 31,
+          "name": "rocker",
+          "text": "Rocker"
+        },
+        {
+          "id": 32,
+          "name": "rocker",
+          "text": "Rocker"
+        },
+        {
+          "id": 33,
+          "name": "bar_stretcher",
+          "text": "Bar Stretcher"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 33,
+          "name": "bar_stretcher",
+          "text": "Bar Stretcher"
+        }
+      ]
+    },
+    "17": {
+      "step": 17,
+      "description": "Finally, add the finishing touches by securing the bar stretcher horizontally between the front legs, which enhances the overall stability and strength of the structure while preventing the legs from splaying apart. This critical component not only reinforces the connection among the legs but also contributes to the aesthetic coherence of the chair, tying together all previously added elements and ensuring a robust, functional design.",
+      "parts": [
+        {
+          "id": 51,
+          "name": "back_hard_surface",
+          "text": "Back Hard Surface"
+        },
+        {
+          "id": 52,
+          "name": "back_support",
+          "text": "Back Support"
+        },
+        {
+          "id": 48,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 49,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 43,
+          "name": "armrest_hard_surface",
+          "text": "Armrest Hard Surface"
+        },
+        {
+          "id": 47,
+          "name": "arm_connector",
+          "text": "Arm Connector"
+        },
+        {
+          "id": 39,
+          "name": "seat_hard_surface",
+          "text": "Seat Hard Surface"
+        },
+        {
+          "id": 37,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 38,
+          "name": "seat_frame_horizontal_bar",
+          "text": "Seat Frame Horizontal Bar"
+        },
+        {
+          "id": 27,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 28,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 29,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 30,
+          "name": "leg",
+          "text": "Leg"
+        },
+        {
+          "id": 31,
+          "name": "rocker",
+          "text": "Rocker"
+        },
+        {
+          "id": 32,
+          "name": "rocker",
+          "text": "Rocker"
+        },
+        {
+          "id": 33,
+          "name": "bar_stretcher",
+          "text": "Bar Stretcher"
+        },
+        {
+          "id": 34,
+          "name": "bar_stretcher",
+          "text": "Bar Stretcher"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 34,
+          "name": "bar_stretcher",
+          "text": "Bar Stretcher"
+        }
+      ]
+    }
+  }
+}

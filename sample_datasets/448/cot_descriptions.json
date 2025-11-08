@@ -1,0 +1,74 @@
+{
+  "model_id": "448",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, create the blade, which will serve as the sharp, functional edge of the knife, establishing its primary purpose for cutting. This blade will be positioned at the forefront of the knife, setting the foundation for both its design and utility, as it will dictate the overall shape and balance of the entire object as additional components are added in subsequent steps.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the bolster at the base of the blade, positioned just above the handle to create a seamless transition between these two main components. This bolster not only reinforces the structural integrity of the knife by providing stability at the junction but also serves as a protective barrier for the user's hand, enhancing safety during use.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 6,
+          "name": "bolster",
+          "text": "Bolster"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 6,
+          "name": "bolster",
+          "text": "Bolster"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Finally, add the handle to the base of the bolster, ensuring it is securely attached to provide a comfortable grip for the user and balance the knife's overall weight. This addition not only completes the functional design by allowing for effective control during use but also enhances the aesthetic appeal of the knife, creating a cohesive look with the blade and bolster.",
+      "parts": [
+        {
+          "id": 5,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 6,
+          "name": "bolster",
+          "text": "Bolster"
+        },
+        {
+          "id": 4,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 4,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ]
+    }
+  }
+}

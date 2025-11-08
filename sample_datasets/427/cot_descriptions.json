@@ -1,0 +1,107 @@
+{
+  "model_id": "427",
+  "steps": {
+    "1": {
+      "step": 1,
+      "description": "First, create the blade, positioning it at the forefront of the object to establish its primary function as the cutting edge. This component is crucial as it defines the overall shape and purpose of the tool, providing a sharp, functional surface that will interact with materials during use.",
+      "parts": [
+        {
+          "id": 6,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 6,
+          "name": "blade",
+          "text": "Blade"
+        }
+      ]
+    },
+    "2": {
+      "step": 2,
+      "description": "Next, add the bolster at the base of the blade, positioned where the blade meets the handle, to enhance stability and support during use. This component is crucial as it reinforces the connection point, preventing any potential stress or breakage while providing a smooth transition for the user's grip.",
+      "parts": [
+        {
+          "id": 6,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 7,
+          "name": "bolster",
+          "text": "Bolster"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 7,
+          "name": "bolster",
+          "text": "Bolster"
+        }
+      ]
+    },
+    "3": {
+      "step": 3,
+      "description": "Then, attach the guard just below the bolster to provide protection for the user's hand and enhance the structural integrity of the knife. This addition not only prevents fingers from slipping onto the blade during use but also reinforces the connection between the bolster and handle, ensuring a secure grip and overall balance in the knife's design.",
+      "parts": [
+        {
+          "id": 6,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 7,
+          "name": "bolster",
+          "text": "Bolster"
+        },
+        {
+          "id": 4,
+          "name": "guard",
+          "text": "Guard"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 4,
+          "name": "guard",
+          "text": "Guard"
+        }
+      ]
+    },
+    "4": {
+      "step": 4,
+      "description": "Finally, add the handle to the bottom of the bolster and guard, creating a secure grip for the user and ensuring the knife is comfortable to hold during use. This addition not only completes the main structure of the knife but also balances the overall design, allowing for effective control and maneuverability while cutting.",
+      "parts": [
+        {
+          "id": 6,
+          "name": "blade",
+          "text": "Blade"
+        },
+        {
+          "id": 7,
+          "name": "bolster",
+          "text": "Bolster"
+        },
+        {
+          "id": 4,
+          "name": "guard",
+          "text": "Guard"
+        },
+        {
+          "id": 5,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ],
+      "new_parts": [
+        {
+          "id": 5,
+          "name": "handle",
+          "text": "Handle"
+        }
+      ]
+    }
+  }
+}
